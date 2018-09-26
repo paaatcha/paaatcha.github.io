@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            André G. C. Pacheco
+title:            André Pacheco
 tagline:          ''
 description:      'Ph.D. Student in Computer Science at Federal University of Espírito Santo'
 url:              http://pachecoandre.com.br
@@ -14,7 +14,7 @@ baseurl:          '/hydeout'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
+author:           
   name:           'André Pacheco'
   url:            https://twitter.com/paaatcha
 
