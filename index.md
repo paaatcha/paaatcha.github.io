@@ -18,12 +18,13 @@ ___
 ### Contact
 + **Email**: `pacheco.comp@gmail.com`
 + **Where you can find me:** `LABCIN, room 17-b CT 10, UFES`
++ [UFES' map](https://www.google.com/maps/d/u/0/viewer?ll=-20.277576%2C-40.302658&spn=0.016102%2C0.042872&hl=en&msa=0&z=16&source=embed&ie=UTF8&mid=1bceB-PnlVIgdZnTuy1KrpZ2-KPY)
 
 ___
 
 ### Links
-+ [CV](#)
-+ [CV Lattes](#)
-+ [Engineering portfolio](#)
-+ [Google Scholar](#)
++ [CV](assets/files/andre-pacheco-cv.pdf)
++ [CV Lattes](http://lattes.cnpq.br/8898143425329967)
++ [Engineering portfolio](assets/files/andre-pacheco-portfolio.pdf)
++ [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en)
 
