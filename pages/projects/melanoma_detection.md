@@ -1,23 +1,47 @@
 ---
 layout: page
 title: Melanoma detection using a smartphone application
+app:
+  - url: assets/imgs/skin_cancer/17.jpeg
+    image_path: assets/imgs/skin_cancer/17.jpeg
+    
+  - url: assets/imgs/skin_cancer/18.jpeg
+    image_path: assets/imgs/skin_cancer/18.jpeg
+
+cm:
+  - url: assets/imgs/skin_cancer/16.png
+    image_path: assets/imgs/skin_cancer/16.png
+
+skin:
+  - url: assets/imgs/skin_cancer/12.jpg
+    image_path: assets/imgs/skin_cancer/12.jpg
+    
+  - url: assets/imgs/skin_cancer/13.jpg
+    image_path: assets/imgs/skin_cancer/13.jpg
+    
+  - url: assets/imgs/skin_cancer/14.jpg
+    image_path: assets/imgs/skin_cancer/14.jpg
+    
+  - url: assets/imgs/skin_cancer/15.jpg
+    image_path: assets/imgs/skin_cancer/15.jpg
+    
 ---
 
 In the early of 2017, we started a project to develop a smartphone application to automatically detect melanoma. This project was the <a href="https://github.com/gabrielucelli" target="_blank" rel="noopener">Gabriel Ucelli's</a> undergraduate thesis, which you can check in this <a href="https://www.dropbox.com/s/trux54zl7y5kksd/proposta.pdf?dl=0" target="_blank" rel="noopener">link</a> (unfortunately, it's in Portuguese only). The <a href="https://www.inf.ufes.br/~rkrohling/" target="_blank" rel="noopener">Prof. Renato A. Krohling</a> was the advisor and I was the co-advisor of this work.
 
 As we didn't have an own dataset, we used a public one provided by <a href="https://isic-archive.com/" target="_blank" rel="noopener">ISIC</a>. This dataset is composed of dermatoscopy images. You may see some samples below:
 
-<a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024494.jpg"><img class="alignnone size-medium wp-image-429" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024494-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024467.jpg"><img class="alignnone size-medium wp-image-428" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024467-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024457.jpg"><img class="alignnone size-medium wp-image-427" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024457-300x225.jpg" alt="" width="300" height="225" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024386.jpg"><img class="alignnone size-medium wp-image-426" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/ISIC_0024386-300x225.jpg" alt="" width="300" height="225" /></a>
+{% include gallery id="skin" layout="half" %}
 
 The project's goal was quite simple: providing a deep model to detect melanoma and put it in a smartphone application. We tried different CNN models in order to solve the problem. We figured out that very deep models, like VGG, inception V3, GoogleNet, were not good options because the network may consume all smartphone memory. In addition, for this kind of network, the connection weights become a large file to save/load, which is not good for a smartphone as well. Thus, the best option we found was the <a href="https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html" target="_blank" rel="noopener">mobileNet</a> [1], a CNN developed specially to work properly on smartphones. The mobileNet's trained model achieved the following performance:
 
-<a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/Screenshot_2018-07-17_15-34-36.png"><img class="alignnone wp-image-436" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/Screenshot_2018-07-17_15-34-36-300x255.png" alt="" width="441" height="375" /></a>
+{% include gallery id="cm" %}
 
 Next, we deployed this model in the smartphone application. All trained models and discussion are described in the <a href="https://www.dropbox.com/s/trux54zl7y5kksd/proposta.pdf?dl=0" target="_blank" rel="noopener">thesis</a>.
 
 The application was developed using Java and Kotlin. You can see some screenshots below:
 
-<a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/d01604fd-039d-4440-abed-5035dc524157.jpeg"><img class="alignnone size-medium wp-image-439" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/d01604fd-039d-4440-abed-5035dc524157-169x300.jpeg" alt="" width="169" height="300" /></a><a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/4163a0a5-60b3-4edc-83f8-6eb2b92f570a.jpeg"><img class="alignnone size-medium wp-image-438" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/4163a0a5-60b3-4edc-83f8-6eb2b92f570a-169x300.jpeg" alt="" width="169" height="300" /></a>
+{% include gallery id="app" layout="half" %}
 
 First, we need to crop a region on the skin. Next, the app shows the probability to be a melanoma or others. In this case, this spot on my skin has 99,5% of chance, according to the model, to be others.
 

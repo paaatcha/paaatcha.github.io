@@ -23,8 +23,22 @@ $body-bg: #fff !default;
 $link-color: $blue !default;
 $heading-color: $gray-6 !default;
 
+
+/* GALLERY */
+$intro-transition  : none;
+$global-transition : none;
+$small: 600px !default;
+$medium: 768px !default;
+$medium-wide: 900px !default;
+$large: 1024px !default;
+$x-large: 1280px !default;
+$text-color: #333 !default;
+$muted-text-color: mix(#fff, $text-color, 35%) !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$type-size-6 : 0.75em;   // ~12px
+
 $border-color: $gray-2 !default;
-$border-radius: 300px !default;
+$border-radius: 4px !default;
 $padding-v: 1em !default;
 $padding-h: 1.5em !default;
 $heading-spacing: 0.5rem !default;

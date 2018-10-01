@@ -1,9 +1,46 @@
 ---
 layout: page
 title: Skin cancer diagnosis based on images acquired from smartphones and patient clinical information
+skin:
+  - url: assets/imgs/skin_cancer/7.jpg
+    image_path: assets/imgs/skin_cancer/7.jpg
+    
+  - url: assets/imgs/skin_cancer/8.jpg
+    image_path: assets/imgs/skin_cancer/8.jpg
+    
+  - url: assets/imgs/skin_cancer/9.jpg
+    image_path: assets/imgs/skin_cancer/9.jpg
+    
+  - url: assets/imgs/skin_cancer/10.jpg
+    image_path: assets/imgs/skin_cancer/10.jpg
+    
+  - url: assets/imgs/skin_cancer/11.jpg
+    image_path: assets/imgs/skin_cancer/11.jpg
+    
+server:
+  - url: assets/imgs/skin_cancer/1.png
+    image_path: assets/imgs/skin_cancer/1.png
+    alt: "Server screenshot"
+  - url: assets/imgs/skin_cancer/2.png
+    image_path: assets/imgs/skin_cancer/2.png
+    alt: "Server screenshot"
+  - url: assets/imgs/skin_cancer/3.png
+    image_path: assets/imgs/skin_cancer/3.png
+    alt: "Server screenshot"
+app:
+  - url: assets/imgs/skin_cancer/4.png
+    image_path: assets/imgs/skin_cancer/4.png
+    alt: "app screenshot"
+  - url: assets/imgs/skin_cancer/5.png
+    image_path: assets/imgs/skin_cancer/5.png
+    alt: "app screenshot"
+  - url: assets/imgs/skin_cancer/6.png
+    image_path: assets/imgs/skin_cancer/6.png
+    alt: "app screenshot"
 ---
 
-Here I describe the skin cancer project that I'm leading in my Lab. The main goal of my Ph.D. is to provide algorithms to handle this problem. I'm gonna describe everything we developed and what we are doing right now. But first, you may want to know how all of this started. So, it's described <a href="http://pachecoandre.com.br/melanoma-detection-using-a-smartphone-application/" target="_blank" rel="noopener">here</a>.
+
+Here I describe the skin cancer project that I'm leading in my Lab. The main goal of my Ph.D. is to provide algorithms to handle this problem. I'm gonna describe everything we developed and what we are doing right now. But first, you may want to know how all of this started. So, it's described <a href="melanoma_detection" target="_blank" rel="noopener">here</a>.
 <h3>Motivation</h3>
 Skin cancer is the most common dysplasia around the world. Currently, around 3 million skin cancers occur globally each year [1]. In Brazil, it is one of the most serious public health issues. According to the Brazilian Cancer Institute [2], the skin cancer accounts for 33% of all cancer diagnoses in the country. This is the highest diagnosis rate among all kind of cancer. Further, over the past decade, the skin cancer incidence increased 55% and for 2018-2019 it is expected 180 thousand new cases in the whole country. Nowadays, every hour a person dies in Brazil due to a skin cancer disease [2].
 
@@ -17,21 +54,41 @@ In the late of 2017, we started a partnership with the Dermatological Assistance
 
 Recently, a Brazilian TV news broadcast produced an amazing documentary about PAD. Obviously, it is in Portuguese, but you can activate the translate in youtube if you can't understand the language.
 
-<iframe src="https://www.youtube.com/embed/5nwDBwNCrR0" width="315" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/5nwDBwNCrR0" width="615" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 &nbsp;
 
+
 By means of our partnership, we developed a system to collect and store all patient's profile, as well as the skin lesion images acquired from smartphones. Our system is composed of two main parts. The first one is the server. It was built in Java (back-end and front-end) and plays the role of storing and presenting all patient's data. Below you can see some screenshots of the system (you also <a href="http://labcin1.ufes.br" target="_blank" rel="noopener">can access this system</a>, however, as it contains sensible data, only allowed people can use that).
 
-<a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/1.png"><img class="alignnone size-medium wp-image-396" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/1-300x155.png" alt="" width="300" height="200" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/3.png"><img class="alignnone size-medium wp-image-398" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/3-300x144.png" alt="" width="300" height="144" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/2.png"><img class="alignnone size-medium wp-image-397" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/2-300x120.png" alt="" width="300" height="120" /></a>
+
+{% include gallery id="server" %}
 
 In order to send information to the web system, we developed a smartphone application, for both Android and iPhone. Through this app, the doctors and students take the photos of the skin lesion, fulfill some questions about the patient and send everything to the web server. Below, you can see some pics of our app. Actually, you can <a href="https://play.google.com/store/apps/details?id=ufes.pad.app&amp;hl=es_DO" target="_blank" rel="noopener">download</a> it if you want, but it works only on a local network.
 
-<a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/4.png"><img class="alignnone size-medium wp-image-400" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/4-169x300.png" alt="" width="169" height="300" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/5.png"><img class="alignnone size-medium wp-image-401" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/5-169x300.png" alt="" width="169" height="300" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/6.png"><img class="alignnone size-medium wp-image-402" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/6-169x300.png" alt="" width="169" height="300" /></a>
+<!-- 
+<figure class="third ">
+      <a href="../../assets/imgs/skin_cancer/4.png" >
+        <img src="../../assets/imgs/skin_cancer/4.png" />
+      </a>
+
+	  <a href="../../assets/imgs/skin_cancer/5.png" >
+        <img src="../../assets/imgs/skin_cancer/5.png" />
+      </a>
+
+	  <a href="../../assets/imgs/skin_cancer/6.png" >
+        <img src="../../assets/imgs/skin_cancer/6.png" />
+      </a>
+    <figcaption>This is a sample gallery with <strong>Markdown support</strong>. </figcaption>
+</figure>
+-->
+
+
+{% include gallery id="app" %}
 
 Below, you can also check some sample of images from our dataset. As you can note, they are quite different from the <a href="https://challenge2018.isic-archive.com/" target="_blank" rel="noopener">dermatoscopy ones.</a>
 
-<a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/706-9021-6665-1238_1523738473945.jpg"><img class="alignnone wp-image-454" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/706-9021-6665-1238_1523738473945.jpg" alt="" width="175" height="175" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/706-2065-6021-8564_1523738321142.jpg"><img class="alignnone wp-image-453" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/706-2065-6021-8564_1523738321142-300x300.jpg" alt="" width="174" height="174" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/702-9025-1371-3772_1533412016927.jpg"><img class="alignnone wp-image-452" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/702-9025-1371-3772_1533412016927-300x300.jpg" alt="" width="175" height="175" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/700-9009-8447-2599_1523738293975.jpg"><img class="alignnone wp-image-451" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/700-9009-8447-2599_1523738293975-300x300.jpg" alt="" width="175" height="175" /></a> <a href="http://pachecoandre.com.br/wp-content/uploads/2018/07/708-7041-2493-7893_1534513357093.jpg"><img class="alignnone wp-image-450" src="http://pachecoandre.com.br/wp-content/uploads/2018/07/708-7041-2493-7893_1534513357093-297x300.jpg" alt="" width="175" height="177" /></a>
+{% include gallery id="skin" %}
 
 From the images above, we can note that developing an approach to automatically detect the skin cancer using them is a very challenging task. We have to handle a plenty of problems, among them:
 <ul>
