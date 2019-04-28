@@ -21,7 +21,7 @@ I'm leading a project in my Lab. that aims to detect the skin cancer by using a 
 
 ___
 
-## Awards, Honors and scholarship
+## Awards, Honors and scholarship (#awards)
 + **Sep 2010:** 1st place/31 teams in the Latin America Robotics Competition (LARC), category IEEE-SEK, São Paulo, Brazil.
 
 + **Oct 2011:** 1st place/22 teams in the Latin America Robotics Competition (LARC), category IEEE-SEK, Bogotá, Colombia.
@@ -38,7 +38,7 @@ ___
 
 ___
 
-## List of publications
+## List of publications (#publications)
 This is my list of publications. It's organized in a chronological way. There is a download link for each paper.
 
 #### 2019
@@ -89,3 +89,18 @@ ___
 + KROHLING, RENATO A. ; PACHECO, ANDRÉ G.C. ; SIVIERO, ANDRÉ L.T. IF-TODIM: An intuitionistic fuzzy TODIM to multi-criteria decision making. Knowledge-Based Systems, v. 53, p. 142-146, 2013. [Download](https://www.dropbox.com/s/6514yjd7py0hiyk/IF-TODIM%20An%20intuitionistic%20fuzzy%20TODIM%20to%20multi-criteria.pdf?dl=0)
 
 + KROHLING, A. R. ; PACHECO, A. G. C. . IFG-TODIM: An intuitionstic fuzzy TODIM for group decision making. In: Simpósio Brasileiro de Pesquisa Operacional, 2013, Natal, RN. [Download](https://www.dropbox.com/s/3ip2o2wtnk3us1q/IFG-TODIM%20AN%20INTUITIONISTIC%20FUZZY%20TODIM%20FOR%20GROUP.pdf?dl=0)
+
+___
+## Talks and presentations (#talks)
+
++ **Mar 2019:** Introduction to machine learning. Faculdade Multivix, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/labcinufes-example.pdf)
++ **Nov 2018:** Introduction to Capsule Networks. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/caps.pdf)
++ + **Nov 2018:** Introduction to Helmholtz machine. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/HM.pdf)
++ **Jun 2018**: An approach to improve online sequential extreme learning machines using restricted Boltzmann machines. IJCNN 2018, Rio de Janeiro, Brazil. [Download](assets/files/talks/rbm-os-elm.pdf)
++ **Apr 2018:** Restricted Boltzmann Machine for clustering data. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/clustering_rbm.pdf)
++ **Mar 2018:** Introduction to Python for scientific computer. Production Engineer, UFES, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/IntroPython.pdf)
++ **Sep 2017:** Overview of singular value decomposition. Computer Science, UFES. Vitória, UFES. *Portuguese only*. [Download](assets/files/talks/svd.pdf)
++ **Apr 2017:** Classification fusion. Computer Science, UFES, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/agg-class.pdf)
++ **Jul 2016:** Restricted Boltzmann Machine for classification. SBPO 2016. Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/drbm.pdf)
++ **Jul 2016:** Introduction to data classification. Jornada de Atualização em Computação, Elétrica e Eletrônica - JAACE, UFES, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/intro-data-class.pdf)
++ **Aug 2014:** Raking algorithms with A-TOPSIS. ITQM 2014, Rio de Janeiro, Brazil. [Download](assets/files/talks/atopsis.pdf)
