@@ -41,6 +41,9 @@ ___
 ## List of publications
 This is my list of publications. It's organized in a chronological way. There is a download link for each paper.
 
+#### 2019
++ DE ANGELO G. GABRIEL ; PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Skin lesion segmentation using deep learning for images acquired from smartphones. On IEEE International Joint Conference in Neural Networks, 2018. *In press*. [Download](#).
+
 #### 2018
 + PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Aggregation of neural classifiers using Choquet integral with respect to a fuzzy measure. Neurocomputing.  [Download](https://www.dropbox.com/s/mib0czng76nofuo/Manuscript.pdf?dl=0).
 
