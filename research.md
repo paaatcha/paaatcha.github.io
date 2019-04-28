@@ -95,7 +95,7 @@ ___
 
 + **Mar 2019:** Introduction to machine learning. Faculdade Multivix, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/labcinufes-example.pdf)
 + **Nov 2018:** Introduction to Capsule Networks. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/caps.pdf)
-+ + **Nov 2018:** Introduction to Helmholtz machine. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/HM.pdf)
++ **Nov 2018:** Introduction to Helmholtz machine. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/HM.pdf)
 + **Jun 2018**: An approach to improve online sequential extreme learning machines using restricted Boltzmann machines. IJCNN 2018, Rio de Janeiro, Brazil. [Download](assets/files/talks/rbm-os-elm.pdf)
 + **Apr 2018:** Restricted Boltzmann Machine for clustering data. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/clustering_rbm.pdf)
 + **Mar 2018:** Introduction to Python for scientific computer. Production Engineer, UFES, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/IntroPython.pdf)
