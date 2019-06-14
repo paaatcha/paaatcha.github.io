@@ -7,9 +7,9 @@ sidebar_sort_order: 1
 
 ___
 
-I am a Ph.D student in Computer Science at the Federal University of Espírito Santo (UFES – Vitória, ES, Brazil), supervised by [Prof. Dr. Renato A. Krohling](http://inf.ufes.br/~rkrohling). My research focus is on machine learning and computer vision, especially for healthcare. Currently, I am leading a [non-profit](http://pachecoandre.com.br/pages/projects/skin_cancer_diagnosis) project here in Brazil that aims to diagnose skin cancer through images acquired from smartphones and the patient clinical data. In addition, I also have an interest in data analysis, natural computing and decision making.
+I am a Ph.D candidate in Computer Science at the Federal University of Espírito Santo (UFES – Vitória, ES, Brazil), supervised by [Prof. Dr. Renato A. Krohling](http://inf.ufes.br/~rkrohling). Currently, I'm in Canada as a visiting graduate research student at Dalhousie University (Halifax, Nova Scotia) supervised by Prof. Dr. Thomas Trappenberg. My research focus is on machine learning and computer vision, especially for healthcare. Currently, I am leading a [non-profit](http://pachecoandre.com.br/pages/projects/skin_cancer_diagnosis) project here in Brazil that aims to diagnose skin cancer through images acquired from smartphones and the patient clinical data. In addition, I also have an interest in data analysis, natural computing and decision making.
 
-Prior to my Ph.D, I got my M.Sc degree in Computer Science also at UFES. During this time, I worked with methodologies to combine ensemble of classifiers. Also at UFES, I took my undergraduate degree in Computer Engineer (the undergraduate system in Brazil is different, we don’t have majors nor minors). During this time, I got involved in different projects and the most exciting one was the university robotic team. My colleagues and I founded ERUS (the UFES robotic team) and we have won some robotic competition promoted by IEEE. You may see my awards and prizes [here](http://pachecoandre.com.br/research.html).
+Prior to my Ph.D, I got my M.Sc degree in Computer Science also at UFES. During this time, I worked with methodologies to combine ensemble of classifiers. Also at UFES, I took my undergraduate degree in Computer Engineer (the undergraduate system in Brazil is different, we don’t have majors nor minors). During this time, I got involved in different projects and the most exciting one was the university robotic team. My colleagues and I founded ERUS (the UFES robotic team) and we have won some robotic competition promoted by IEEE. You may see my awards and prizes [here](http://pachecoandre.com.br/research.html#awards).
 
 ___
 
@@ -18,7 +18,7 @@ I'm also engaged with volunteer work. In 2012, I helped to found a preparatory c
 ___
 
 ## Skills
-+ Python, Tensorflow, PyTorch, Java, MATLAB, HTML, CSS, Javascript and Latex
++ Python, PyTorch, Tensorflow, Java, MATLAB, Angular, HTML, CSS and Latex
 + Arduino and raspberry-pi
 
 You can check my [portfolio](assets/files/andre-pacheco-portfolio.pdf), in which I present some projects I developed throughout my life.
@@ -33,7 +33,7 @@ ___
 ## Topics of interest
 My main topics of interest are:
 
-+ Neural networks
++ Machine learning
 + Deep Learning
 + Data classification
 + Data analysis

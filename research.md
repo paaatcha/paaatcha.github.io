@@ -11,8 +11,9 @@ ___
 
 <img style="float: left; width: 150px; height: 190px; padding: 30px;" src="assets/imgs/research/labcin.png">
 
-Currently, I’m a member of the Bio-Inspired Computer Lab. ( Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems and decision-making. The lab is led by Prof. Renato A. Krohling and is composed by around 15 people.
+I’m a member of the Bio-Inspired Computer Lab. ( Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems and decision-making. The lab is led by Prof. Renato A. Krohling and is composed by around 15 students.
 
+Currently, I'm working as a visiting research graduate student at the Hierarchical Anticipatory Learning Lab (HALLab), Dalhousie University, Halifax, NS, Canada.
 ___
 
 ## Current project
@@ -21,7 +22,8 @@ I'm leading a project in my Lab. that aims to detect the skin cancer by using a 
 
 ___
 
-## Awards, Honors and scholarship (#awards)
+<a name="awards"> </a>
+## Awards, Honors and scholarship 
 + **Sep 2010:** 1st place/31 teams in the Latin America Robotics Competition (LARC), category IEEE-SEK, São Paulo, Brazil.
 
 + **Oct 2011:** 1st place/22 teams in the Latin America Robotics Competition (LARC), category IEEE-SEK, Bogotá, Colombia.
@@ -38,7 +40,7 @@ ___
 
 ___
 
-## List of publications (#publications)
+## List of publications
 This is my list of publications. It's organized in a chronological way. There is a download link for each paper.
 
 #### 2019
