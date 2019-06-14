@@ -14,6 +14,7 @@ ___
 I’m a member of the Bio-Inspired Computer Lab. ( Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems and decision-making. The lab is led by Prof. Renato A. Krohling and is composed by around 15 students.
 
 Currently, I'm working as a visiting research graduate student at the Hierarchical Anticipatory Learning Lab (HALLab), Dalhousie University, Halifax, NS, Canada.
+
 ___
 
 ## Current project
