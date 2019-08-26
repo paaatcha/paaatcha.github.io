@@ -7,7 +7,7 @@ tags:
   - github
 ---
 Atualmente, o git é uma ferramenta fundamental para qualquer programador. Difícil encontrar uma empresa que não utilize o Git como ferramenta de versionamento de código.
-Há um tempinho atrás, quando eu estava aprendendo a usar a ferramenta, eu escrevi um pequeno tutorial para masterizar o seu uso. Esse mini-tutorial pode ser baixado [clicando aqui](files/mini-tutorial-git.pdf)
+Há um tempinho atrás, quando eu estava aprendendo a usar a ferramenta, eu escrevi um pequeno tutorial para masterizar o seu uso. Esse mini-tutorial pode ser baixado [clicando aqui](/assets/files/mini-tutorial-git.pdf)
 Além disso, deixo linkado outras alternativas a seguir:
 
 + [Curso git para iniciantes](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
