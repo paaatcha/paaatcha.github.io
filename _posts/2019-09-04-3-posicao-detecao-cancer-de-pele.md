@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como eu alcancei o 3ª lugar no ISIC 2019
+title: Como eu alcancei o 3ª lugar no desafio internacional de deteção de cancer de pele
 tags:
   - artigo
   - deep learning
