@@ -1,19 +1,12 @@
 ---
 layout: page
-title: Awards
+title: Awards, Honors and prizes 
 sidebar_link: true
-sidebar_sort_order: 4
+sidebar_sort_order: 3
 ---
-
-___
-
-## Research group
 
 In this page you can check my awards, honors and prizes. The full list in presented below.
 
-___
-
-## Awards, Honors and prizes 
 
 + **Sep 2010:** 1st place (out of 31 teams) in the Latin America Robotics Competition (LARC), category IEEE-SEK, São Paulo, Brazil..
 
