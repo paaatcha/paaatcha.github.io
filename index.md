@@ -6,7 +6,7 @@ ___
 Hi, welcome to my personal page. 
 Here you’re gonna find some information about my academic work as well as other topics in which I have interest.
 
-For more information about my work, my topics of interest and my research group, go to [Profile](profile). You also can find my list of works/publications and teaching material in [Research](research) and [Teaching](teaching) respectively. To check my awards and prizes, go to [Awards][awards].
+For more information about my work, my topics of interest and my research group, go to [Profile](profile). You also can find my list of works/publications and teaching material in [Research](research) and [Teaching](teaching) respectively. To check my awards and prizes, go to [Awards](awards).
 
 ___
 In my [blog](blog) area, I share some thoughts, some tutorials for my students, among others kinds of stuff. Most of the time I’m going to write in Portuguese because almost always my audience will be Brazilians.
