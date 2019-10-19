@@ -11,7 +11,7 @@ ___
 
 <img style="float: left; width: 150px; height: 190px; padding: 30px;" src="assets/imgs/research/labcin.png">
 
-I’m a member of the Bio-Inspired Computer Lab. ( Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems and decision-making. The lab is led by Prof. Renato A. Krohling and is composed by around 15 students.
+I’m a member of the Bio-Inspired Computer Lab. (Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems, and decision-making. The lab is led by Prof. Renato A. Krohling and is composed of around 15 students.
 
 Currently, I'm working as a visiting research graduate student at the Hierarchical Anticipatory Learning Lab (HALLab), Dalhousie University, Halifax, NS, Canada.
 
@@ -23,29 +23,18 @@ I'm leading a project in my Lab. that aims to detect the skin cancer by using a 
 
 ___
 
-<a name="awards"> </a>
-## Awards, Honors and scholarship 
-+ **Sep 2010:** 1st place/31 teams in the Latin America Robotics Competition (LARC), category IEEE-SEK, São Paulo, Brazil.
-
-+ **Oct 2011:** 1st place/22 teams in the Latin America Robotics Competition (LARC), category IEEE-SEK, Bogotá, Colombia.
-
-+ **Jul 2012:** The State of Espírito Santo Research Foundation (FAPES) scholarship for undergraduate research.
-
-+ **Oct 2013:** 2nd place/19 teams in the Latin America Robotics Competition (LARC), category IEEE-OPEN, Arequipa, Peru.
-
-+ **Nov 2013:** The best undergraduate research work in engineering and exact sciences at Federal University of Espírito Santo (out of 151 projects).
-
-+ **Sep 2014:** Full scholarship from Brazil’s research agency CAPES for two-years master’s degree program at Federal University of Espírito Santo.
-
-+ **Oct 2017:** Full scholarship from Brazil’s research agency CAPES for four-years PhD program at Federal University of Espírito Santo.
-
-___
-
 ## List of publications
 This is my list of publications. It's organized in a chronological way. There is a download link for each paper.
 
 #### 2019
 + DE ANGELO G. GABRIEL ; PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Skin lesion segmentation using deep learning for images acquired from smartphones. On IEEE International Joint Conference in Neural Networks, 2018. *In press*. [Download](#).
+
++ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. Recent advances in deep learning applied for skin cancer detection. Advances in neural information processing systems, Retrospectives
+workshop, NeurIPS 2019. [Download](#)
+
++ PACHECO, ANDRÉ G. C.; Alib, A.; Trappenberg, Thomas. Skin cancer detection based on deep learning and entropy to detect outlier samples. Skin Lesion Analysis Towards Melanoma Detection, 2019. ISIC workshop, MICCAI 2019 [Download](https://arxiv.org/pdf/1909.04525.pdf)
+
++ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. The impact of patient clinical information on automated skin cancer detection. [Download](https://arxiv.org/pdf/1909.12912.pdf)
 
 #### 2018
 + PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Aggregation of neural classifiers using Choquet integral with respect to a fuzzy measure. Neurocomputing.  [Download](https://www.dropbox.com/s/mib0czng76nofuo/Manuscript.pdf?dl=0).
@@ -94,7 +83,7 @@ ___
 + KROHLING, A. R. ; PACHECO, A. G. C. . IFG-TODIM: An intuitionstic fuzzy TODIM for group decision making. In: Simpósio Brasileiro de Pesquisa Operacional, 2013, Natal, RN. [Download](https://www.dropbox.com/s/3ip2o2wtnk3us1q/IFG-TODIM%20AN%20INTUITIONISTIC%20FUZZY%20TODIM%20FOR%20GROUP.pdf?dl=0)
 
 ___
-## Talks and presentations (#talks)
+## Talks and presentations
 
 + **Mar 2019:** Introduction to machine learning. Faculdade Multivix, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/labcinufes-example.pdf)
 + **Nov 2018:** Introduction to Capsule Networks. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/caps.pdf)
