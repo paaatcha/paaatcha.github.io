@@ -36,8 +36,9 @@ My main topics of interest are:
 
 + Machine learning
 + Deep Learning
++ Medical imaging
++ ML for Healthcare
 + Data analysis
 + Decision making
 + Information fusion
 + Evolutionary algorithms
-+ Fuzzy number
