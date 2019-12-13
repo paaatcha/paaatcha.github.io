@@ -27,14 +27,13 @@ ___
 This is my list of publications. It's organized in a chronological way. There is a download link for each paper.
 
 #### 2019
-+ DE ANGELO G. GABRIEL ; PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Skin lesion segmentation using deep learning for images acquired from smartphones. On IEEE International Joint Conference in Neural Networks, 2018. *In press*. [Download](#).
++ DE ANGELO G. GABRIEL ; PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Skin lesion segmentation using deep learning for images acquired from smartphones. On IEEE International Joint Conference in Neural Networks, 2019. [Download](https://ieeexplore.ieee.org/document/8851803).
 
-+ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. Recent advances in deep learning applied for skin cancer detection. Advances in neural information processing systems, Retrospectives
-workshop, NeurIPS 2019. [Download](#)
++ PACHECO, ANDRÉ G. C.; Alib, A.; Trappenberg, Thomas. Skin cancer detection based on deep learning and entropy to detect outlier samples. Skin Lesion Analysis Towards Melanoma Detection. MICCAI 2019 @ ISIC workshop [Download](https://arxiv.org/pdf/1909.04525.pdf)
 
-+ PACHECO, ANDRÉ G. C.; Alib, A.; Trappenberg, Thomas. Skin cancer detection based on deep learning and entropy to detect outlier samples. Skin Lesion Analysis Towards Melanoma Detection, 2019. ISIC workshop, MICCAI 2019 [Download](https://arxiv.org/pdf/1909.04525.pdf)
++ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. Recent advances in deep learning applied to skin cancer detection. NeurIPS 2019 @ Retrospectives workshop. [Download](https://arxiv.org/abs/1912.03280)
 
-+ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. The impact of patient clinical information on automated skin cancer detection. [Download](https://arxiv.org/pdf/1909.12912.pdf)
++ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. The impact of patient clinical information on automated skin cancer detection. Computers in biology and medicine. [Download](https://arxiv.org/pdf/1909.12912.pdf)
 
 #### 2018
 + PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Aggregation of neural classifiers using Choquet integral with respect to a fuzzy measure. Neurocomputing.  [Download](https://www.dropbox.com/s/mib0czng76nofuo/Manuscript.pdf?dl=0).
