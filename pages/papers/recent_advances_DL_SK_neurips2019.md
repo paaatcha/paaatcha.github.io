@@ -13,7 +13,7 @@ Skin cancer is a major public health problem around the world. Its early detecti
 - [Download](assets/files/talks/neurips2019.pdf) the presentation slides
 
 
-## Citations
+## Citation
 
 ```
 @article{pacheco2019recent,
