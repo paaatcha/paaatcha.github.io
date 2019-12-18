@@ -11,27 +11,27 @@ ___
 
 <img style="float: left; width: 150px; height: 190px; padding: 30px;" src="assets/imgs/research/labcin.png">
 
-I’m a member of the Bio-Inspired Computer Lab. (Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems, and decision-making. The lab is led by Prof. Renato A. Krohling and is composed of around 15 students.
+I’m a member of the Bio-Inspired Computer Lab. (Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems, and decision-making. The lab is led by Prof. Renato A. Krohling and is composed of around 20 students.
 
-Currently, I'm working as a visiting research graduate student at the Hierarchical Anticipatory Learning Lab (HALLab), Dalhousie University, Halifax, NS, Canada.
+Currently, I'm working as a visiting research graduate student at the Hierarchical Anticipatory Learning Lab (HALLab), under the supervision of Prof. Thomas Trappenberg at Dalhousie University, Halifax, NS, Canada.
 
 ___
 
 ## Current project
 
-I'm leading a project in my Lab. that aims to detect the skin cancer by using a smartphone. You can check everything I'm doing in this project by [clicking here](pages/projects/skin_cancer_diagnosis).
+I'm leading a project in my Lab. that aims to detect skin cancer using clinical images collected from smartphones and patient demographics. You can check the project description [here](pages/projects/skin_cancer_diagnosis).
 
 ___
 
 ## List of publications
-This is my list of publications. It's organized in a chronological way. There is a download link for each paper.
+This is my list of publications. It's organized in chronological time. There is a download link for each paper.
 
 #### 2019
 + DE ANGELO G. GABRIEL ; PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Skin lesion segmentation using deep learning for images acquired from smartphones. On IEEE International Joint Conference in Neural Networks, 2019. [Download](https://ieeexplore.ieee.org/document/8851803).
 
 + PACHECO, ANDRÉ G. C.; Alib, A.; Trappenberg, Thomas. Skin cancer detection based on deep learning and entropy to detect outlier samples. Skin Lesion Analysis Towards Melanoma Detection. MICCAI 2019 @ ISIC workshop [Download](https://arxiv.org/pdf/1909.04525.pdf)
 
-+ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. Recent advances in deep learning applied to skin cancer detection. NeurIPS 2019 @ Retrospectives workshop. [Download](https://arxiv.org/abs/1912.03280)
++ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. Recent advances in deep learning applied to skin cancer detection. NeurIPS 2019 @ Retrospectives workshop. [Download](https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf)
 
 + PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. The impact of patient clinical information on automated skin cancer detection. Computers in biology and medicine. [Download](https://arxiv.org/pdf/1909.12912.pdf)
 
@@ -84,6 +84,7 @@ ___
 ___
 ## Talks and presentations
 
++ **Dec 2019:** Recent advances in deep learning applied to skin cancer detection. NeurIPS 2019 @ Retrospectives workshop. [Download](assets/files/talks/neurips2019.pdf)
 + **Mar 2019:** Introduction to machine learning. Faculdade Multivix, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/labcinufes-example.pdf)
 + **Nov 2018:** Introduction to Capsule Networks. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/caps.pdf)
 + **Nov 2018:** Introduction to Helmholtz machine. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/HM.pdf)
