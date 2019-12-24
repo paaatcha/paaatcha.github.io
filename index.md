@@ -27,6 +27,7 @@ ___
 + **Where you can find me:** Usually in `LABCIN, room 17-b CT 10, UFES`, but right now I'm in Playground 304, Goldberg building - Dalhousie University
 + [UFES' map](https://www.google.com/maps/d/u/0/viewer?ll=-20.277576%2C-40.302658&spn=0.016102%2C0.042872&hl=en&msa=0&z=16&source=embed&ie=UTF8&mid=1bceB-PnlVIgdZnTuy1KrpZ2-KPY)
 
+
 ___
 
 
