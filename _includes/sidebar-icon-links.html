@@ -38,6 +38,7 @@
       {% include svg/stack-overflow.svg %}
   </a>
 
+  <!--
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
@@ -59,14 +60,15 @@
       {% include svg/tags.svg %}
     </a>
   {% endif %}
-
-  <!--
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">
-    {% include svg/feed.svg %}
-  </a>
   -->
+
+
+  <a id="twitter-link"
+     class="icon" title="Twitter" aria-label="Twitter"
+     href="https://twitter.com/paaatcha">
+    {% include svg/twitter-logo-button.svg %}
+  </a>
+
 
   <!--
   {% if search_page %}
