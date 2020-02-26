@@ -7,7 +7,7 @@ sidebar_sort_order: 1
 
 ___
 
-I am a Ph.D. candidate in Computer Science at the Federal University of Espírito Santo (UFES – Vitória, ES, Brazil), supervised by [Prof. Dr. Renato A. Krohling](http://inf.ufes.br/~rkrohling). Currently, I’m in Canada as a visiting graduate research student at Dalhousie University (Halifax, Nova Scotia) supervised by Prof. Dr. Thomas Trappenberg. My research focus is on machine learning and computer vision, especially for healthcare. Currently, I am leading a [non-profit](http://pachecoandre.com.br/pages/projects/skin_cancer_diagnosis) project in Brazil that aims to diagnose skin cancer through images collected from smartphones and patient clinical data. In addition, I also have an interest in data analysis, natural computing and decision making.
+I am a Ph.D. candidate in Computer Science at the Federal University of Espírito Santo (UFES – Vitória, ES, Brazil), supervised by [Prof. Dr. Renato A. Krohling](http://inf.ufes.br/~rkrohling). I also spent ~9 months in Canada as a visiting graduate research student at Dalhousie University (Halifax, Nova Scotia) supervised by [Prof. Dr. Thomas Trappenberg](https://www.dal.ca/faculty/computerscience/faculty-staff/thomas-trappenberg.html). Currently, my research focus is on machine/deep learning and computer vision, in particular for healthcare. I am leading a [non-profit](http://pachecoandre.com.br/pages/projects/skin_cancer_diagnosis) project in Brazil that aims to diagnose skin cancer using images collected from smartphones and patient demographics. In addition, I also have an interest in data analysis, natural computing and decision making.
 
 Prior to my Ph.D., I got my M.Sc degree in Computer Science also at UFES. During this time, I worked with methodologies to combine an ensemble of classifiers. Also at UFES, I took my undergraduate degree in Computer Engineer (the undergraduate system in Brazil is different; we don’t have majors or minors). During this time, I got involved in different projects, and the most exciting one was the university robotic team. My colleagues and I founded ERUS (the UFES robotic team) and we have won some robotic competition promoted by IEEE. You may see my awards and prizes [here](http://pachecoandre.com.br/research.html#awards).
 
@@ -21,10 +21,10 @@ Currently, I’m leading a team that developed a web-based system (using Spring
 ___
 
 ## Skills
-+ Python, PyTorch, Tensorflow, Java, SpringBoot, MATLAB, Angular, HTML, CSS and Latex
++ Python, PyTorch, Scit-Learn, Tensorflow, Java, SpringBoot, MATLAB, Angular, HTML, CSS and Latex
 + Arduino and raspberry-pi
 
-You can check my [engeneering portfolio](assets/files/andre-pacheco-portfolio.pdf), in which I present some projects I developed throughout my life.
+You can check my [engeneering portfolio](assets/files/andre-pacheco-portfolio.pdf), in which I present some projects I developed throughout undergraduate.
 
 ___
 
