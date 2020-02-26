@@ -27,3 +27,5 @@ In this page you can check my **awards, honors and prizes**. The full list in pr
  + **Aug 2019:** 4th place (out of 64 teams) in the International Skin Imaging Collaboration challenge - ISIC 2019 task 1.
 
 + **Aug 2019**: 3rd place (out of 16 teams) in the International Skin Imaging Collaboration challenge - ISIC 2019 task 2.
+
++ **Oct 2019**: NeurIPS travel awards
