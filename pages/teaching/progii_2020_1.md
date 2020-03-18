@@ -5,7 +5,7 @@ title: Programação II 2020/2 - INF09330
 
 ___
 
-Esta é a página destinada a monitoria de Programação II 2020/2. Aqui você encontra alguns materiais de apoio bem como dicas, sugestões e resolução de exercícios de laboratório.
+Esta é a página destinada a monitoria de Programação II 2020/1. Aqui você encontra alguns materiais de apoio bem como dicas, sugestões e resolução de exercícios de laboratório.
 
 ___
 
