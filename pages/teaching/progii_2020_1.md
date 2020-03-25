@@ -14,6 +14,7 @@ ___
 <ul>
  	<li><a href="#sobre">Sobre a monitoria</a></li>
  	<li><a href="#dicas">Dicas de sobrevivência</a></li>
+	 <li><a href="#workspace">Ambiente de desenvolvimento</a></li>
  	<li><a href="#apoio">Material de apoio</a></li> 	
  	<li><a href="#exercicios">Exercícios</a></li>
  	<li><a href="#trabalhos">Trabalhos</a></li> 	 	
@@ -49,6 +50,36 @@ Como um graduado em Engenharia de Computação, deixo aqui algumas dicas para vo
 + Ao longo do curso vocês vão perceber que existem disciplinas que vocês vão estudar e vão ser aprovados tranquilamente e outras que vocês vão estudar freneticamente e ainda assim acaba reprovando (espero que não, mas a estatística não está do lado de vocês lol). **Programação é uma disciplina que se você estudar é impossível reprovar!**
 
 + Você não está mais no Ensino Médio! Não espere que o professor ou monitor vá até você. Seja independente! Tente solucionar os seus próprios problemas.  Se você não levar a sério, você vai reprovar e ponto.
+
+
+<h3 id="workspace">Ambiente de desenvolvimento</h3>
+Para muitos de vocês este é o primeiro contato com programação. Logo é natural ter dúvidas sobre um ambiente de desenvolvimento. Basicamente, você pode programar utilizando qualquer sistema operacional. Aqui vou dar dicas para Windows e Linux (Mac OS deixa pra próxima)
+
+### Windows
+Acredito que a vasta maioria utiliza Windows. Embora isso vai mudar ao longo da trajetória de vocês, você pode continuar utilizando no momento. 
+
+Para programar com este SO, eu recomento o uso do Code::Blocks. Você encontra um tutorial que eu gravei há alguns anos [neste link](http://pachecoandre.com.br/2015/07/31/instalar-code-blocks.html).
+
+### Linux
+O SO mais utilizado no curso será o Linux. No futuro, vocês terão trabalhos que vocês terão que, obrigatoriamente, utilizar este SO. Muitos de vocês, inclusive, vai preferi-lo. Por exemplo, atualmente, este é o único SO que utilizo. Caso você já queira instalá-lo, aqui vai um rápido tutorial.
+
+O Linux possui várias distribuições. Ubuntu é uma delas. Eu, particularmente, gosto de duas distribuições, o Xubuntu e o Mint. Ambas são modificações do Ubuntu. Pra quem está iniciando e vindo do Windows, acredito que o Linux Mint é melhor. Vai atender a demanda e tem um visual bacana que não faz você sentir tanto a diferença. Você pode baixar ele daqui: [download Linux Mint](https://www.linuxmint.com/download.php).
+
+Você pode instalar o Linux e ainda assim manter o Windows na sua máquina. Isso é chamado de dual boot. Para instalar o dual boot é bem tranquilo. Partindo do princípio que você tem o Windows instalado, a própria instalação da distribuição do Linux vai criar o Grub, que nada mais é do que uma tela que aparece ao ligar o computador com opções do SO para dar boot. 
+
+![Exemplo menu Grub](https://2.bp.blogspot.com/-ul9zrxN1N0M/U-IeAcdvraI/AAAAAAAAIJg/7POnWRidzZE/s1600/grub.png)
+
+Daí você seleciona o SO que deseja utilizar no momento.
+
+O processo de instalação envolve os seguintes passos: 
+1. Baixar a distribuição do Linux. No caso do Linux Mint, [neste link](https://www.linuxmint.com/download.php).
+2. Criar um pendrive bootável. Em outras palavras, é criar uma distribuição linux dentro do pendrive, plugar no sua máquina para que ela se inicie a partir dele. Você pode seguir este [vídeo tutorial](http://codetheelephant.com/criando-um-pendrive-bootavel-com-linux-mint-com-windows/) para criar o pendrive bootável.
+3. Bootar no pendrive. Como disse no passo anterior, você tem que forçar a sua máquina a iniciar pelo pendrive. O nome disso é boot. Normalmente o boot pe feito no seus HD, precisamos mudar isso. Para fazer isso é simples, mas varia de computador para computar. O processo é: ligar o seu PC, entrar no setup da BIOS e selecionar o boot primário para o pendrive. Alguns computadores precisa apertar DEL quando starta, outros F12, etc. Nesse ponto você tem que pesquisar como acessar a BIOS no modelo do seu PC. Você pode dar uma olhada [neste vídeo tutorial](https://www.youtube.com/watch?v=CwfS7UXbONM) que exemplifica este processo.
+4. Após o boot no pendrive com o Linux Mint, você vai seguir a instalação padrão. O passo a passo também é descrito no [tutorial](https://www.youtube.com/watch?v=CwfS7UXbONM) do passo anterior.
+
+É importante que você **não apague a partição de dados do Windows**, caso contrário você perde tudo que tem nela!
+
+Questão de tamanho de partição para o Linux, ou seja, o quanto de espaço que você deixa no seu HD para ela, isso é bem pessoal. Mesmo que você queira só pra estudos, eu deixaria pelo menos 200GB. Como disse, ao longo do curso você vai utilizando mais e mais a distribuição até chegar o momento que você não utilizará Windows mais (a não ser que você jogue algum jogo). Se você deixar pouco espaço, vai ter que remanejar o disco lá na frente.
 
 
 
