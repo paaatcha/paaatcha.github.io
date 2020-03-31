@@ -67,12 +67,12 @@ Recently, a Brazilian TV news broadcast produced an amazing documentary about PA
 &nbsp;
 
 
-By means of our partnership, we developed a system to collect and store the patient demographics as well as the skin lesion images taken using smartphones. Our system is composed of two main parts. The first one is the server. It was built using SpringBoot for the back-end and Angular for the front-end. Below you can see some screenshots of the system (you also <a href=“http://labcin.ufes.br/sade” target=“_blank” rel=“noopener”>can access this system</a>, however, as it contains private data, only allowed people can use that).
+By means of our partnership, we developed a system to collect and store the patient demographics as well as the skin lesion images taken using smartphones. Our system is composed of two main parts. The first one is the server. It was built using SpringBoot for the back-end and Angular for the front-end. Below you can see some screenshots of the system (you also [can access this system](http://labcin.ufes.br/sade), however, as it contains private data, only allowed people can use that).
 
 
 {% include gallery id="server" %}
 
-In order to send information to the web system, we developed a smartphone application for both Android and iPhone platforms using React-Native. Through this app, the doctors and students take the photos of the skin lesion, fulfill some questions about the patient, and send everything to the web server. Below, you can see some pics of our app. Actually, you can <a href=“https://play.google.com/store/apps/details?id=ufes.pad.app&amp;hl=es_DO” target=“_blank” rel=“noopener”>download</a> it if you want, but it works only on a local network.
+In order to send information to the web system, we developed a smartphone application for both Android and iPhone platforms using React-Native. Through this app, the doctors and students take the photos of the skin lesion, fulfill some questions about the patient, and send everything to the web server. Below, you can see some pics of our app. Actually, you can [download it](https://play.google.com/store/apps/details?id=ufes.pad.app&hl=pt_BR) if you want, but it works only on a local network.
 
 <!-- 
 <figure class="third ">
@@ -104,7 +104,7 @@ From the images above, we can note that developing an automated approach to dete
  	<li>The number of images available for this task is limited. The data collection is going on.</li>
  	<li>The number of samples for each type of skin cancer is very imbalanced</li>
 </ul>
-In order to tackle those challenges, we complement the image data with 26 different patient clinical features, such as age, the lesion region, and size, the patient daily habits, family ancestry etc. Therefore, each skin lesion in our dataset has an image and its related clinical data. That is what the dermatologists do, they do not trust only on the screening, they also use the patient clinical information to provide a more reliable diagnostic. In this sense, we believe we cannot waste this clinical information, but include it into the recent developments to improve even more the diagnosis.
+In order to tackle these challenges, we complement the image data with 28 different patient clinical features, such as age, the lesion region, and size, the patient daily habits, family ancestry etc. Therefore, each skin lesion in our dataset has an image and its related clinical data. That is what the dermatologists do, they do not trust only on the screening, they also use the patient clinical information to provide a more reliable diagnostic. In this sense, we believe we cannot waste this clinical information, but include it into the recent developments to improve even more the diagnosis.
 
 <hr />
 

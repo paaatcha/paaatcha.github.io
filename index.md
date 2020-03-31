@@ -19,6 +19,7 @@ ___
 
 + **Mar 20:** I was awarded the research travel fund from FAPES 🎉🎉🎉🎉
 + **Mar 20:** I got two papers accepted in IEEE International Joint Conference on Neural Networks (IJCNN). I'll post the pre-print versions soon.
++ **Mar 8:** Have a look at my data analysis for [Covid-19 (Coronavirus)](https://github.com/paaatcha/covid-19)
 + **Dez 13:** Check my [talk](assets/files/talks/neurips2019.pdf) at NeurIPS @ [Retrospective workshop](https://ml-retrospectives.github.io/neurips2019/schedule/)
 + **Nov 18:** Have a look in my new paper _"The impact of patient clinical information on automated skin cancer detection"_ published on Computers in Medicine and Biology. [Link](https://www.sciencedirect.com/science/article/pii/S0010482519304019)
 + **Oct 8:** I received the travel awards from [NeurIPS 2019](https://neurips.cc/) 🎉🎉🎉🎉

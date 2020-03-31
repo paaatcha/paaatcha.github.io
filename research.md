@@ -26,14 +26,18 @@ ___
 ## List of publications
 This is my list of publications. It's organized in chronological time. There is a download link for each paper.
 
-#### 2019
-+ DE ANGELO G. GABRIEL ; PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Skin lesion segmentation using deep learning for images acquired from smartphones. On IEEE International Joint Conference in Neural Networks, 2019. [Download](https://ieeexplore.ieee.org/document/8851803).
+#### 2020
+PACHECO, ANDRÉ G. C.; TRAPPENBERG, THOMAS; KROHLING, RENATO A. Learning dynamic weights for an ensemble of deep models applied to medical imaging classification. In IEEE International Joint Conference in Neural Networks, 2019. Download soon.
 
-+ PACHECO, ANDRÉ G. C.; Alib, A.; Trappenberg, Thomas. Skin cancer detection based on deep learning and entropy to detect outlier samples. Skin Lesion Analysis Towards Melanoma Detection. MICCAI 2019 @ ISIC workshop [Download](https://arxiv.org/pdf/1909.04525.pdf)
+CASTRO, PEDRO; KROHLING, BRENO; PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. An App to Detect Melanoma Using Deep Learning: An Approach to Handle Imbalanced Data Based on Evolutionary Algorithms. In IEEE International Joint Conference in Neural Networks, 2019. Download soon.
+
+#### 2019
++ DE ANGELO G. GABRIEL ; PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Skin lesion segmentation using deep learning for images acquired from smartphones. In IEEE International Joint Conference in Neural Networks, 2019. [Download](https://ieeexplore.ieee.org/document/8851803).
+
++ PACHECO, ANDRÉ G. C.; ALIB, ABDER.; TRAPPENBERG, THOMAS. Skin cancer detection based on deep learning and entropy to detect outlier samples. Skin Lesion Analysis Towards Melanoma Detection. MICCAI 2019 @ ISIC workshop [Download](https://arxiv.org/pdf/1909.04525.pdf)
 
 + PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. Recent advances in deep learning applied to skin cancer detection. NeurIPS 2019 @ Retrospectives workshop. [Download](https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf)
 
-+ PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. The impact of patient clinical information on automated skin cancer detection. Computers in biology and medicine. [Download](https://arxiv.org/pdf/1909.12912.pdf)
 
 #### 2018
 + PACHECO, ANDRÉ G. C. ;  KROHLING, RENATO A. Aggregation of neural classifiers using Choquet integral with respect to a fuzzy measure. Neurocomputing.  [Download](https://www.dropbox.com/s/mib0czng76nofuo/Manuscript.pdf?dl=0).
