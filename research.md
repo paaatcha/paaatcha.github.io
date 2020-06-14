@@ -27,6 +27,18 @@ ___
 This is my list of publications. It's organized in chronological time. There is a download link for each paper.
 
 #### 2020
+**Title:** On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
+**Publisher:** CVPR 2020
+**Authors:** Andre Pacheco, Chandramouli Sastry, Thomas Trappenberg, Sageev Oore, and Renato Krohling
+**Download:** [paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) - [code](https://github.com/paaatcha/gram-ood) - [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
+
+
+
+**Title:** 
+**Publisher:** 
+**Authors:** 
+**Download:** 
+
 PACHECO, ANDRÉ G. C.; TRAPPENBERG, THOMAS; KROHLING, RENATO A. Learning dynamic weights for an ensemble of deep models applied to medical imaging classification. In IEEE International Joint Conference in Neural Networks, 2019. Download soon.
 
 CASTRO, PEDRO; KROHLING, BRENO; PACHECO, ANDRÉ G. C.; KROHLING, RENATO A. An App to Detect Melanoma Using Deep Learning: An Approach to Handle Imbalanced Data Based on Evolutionary Algorithms. In IEEE International Joint Conference in Neural Networks, 2019. Download soon.
