@@ -28,12 +28,12 @@ This is my list of publications. It's organized in chronological time. You can a
 
 
 
-### On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
+#### On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
 - **Authors:** Andre Pacheco, Chandramouli Sastry, Thomas Trappenberg, Sageev Oore, and Renato Krohling
 - **Publisher:** CVPR 2020
 - **Download:** [paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) - [code](https://github.com/paaatcha/gram-ood) - [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
 
-### Learning dynamic weights for an ensemble of deep models applied to medical imaging classification
+#### Learning dynamic weights for an ensemble of deep models applied to medical imaging classification
 - **Authors:** Andre Pacheco, Thomas Trappenberg, and Renato Krohling
 - **Publisher:** IEEE International Joint Conference in Neural Networks 2020
 - **Download:** soon
