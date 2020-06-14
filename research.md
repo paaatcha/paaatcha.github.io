@@ -31,7 +31,7 @@ This is my list of publications. It's organized in chronological time. You can a
 #### On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
 - **Authors:** Andre Pacheco, Chandramouli Sastry, Thomas Trappenberg, Sageev Oore, and Renato Krohling
 - **In:** IEEE computer society conference on Computer Vision and Pattern Recognition 2020 @ ISIC 2020 workshop
-- **Download:** [paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) | [code](https://github.com/paaatcha/gram-ood) | [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
+- **Download:** [paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) -- [code](https://github.com/paaatcha/gram-ood) -- [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
 
 #### Learning dynamic weights for an ensemble of deep models applied to medical imaging classification
 - **Authors:** Andre Pacheco, Thomas Trappenberg, and Renato Krohling
@@ -55,13 +55,13 @@ This is my list of publications. It's organized in chronological time. You can a
 #### Skin cancer detection based on deep learning and entropy to detect outlier samples
 - **Authors:** Andre Pacheco, Alib Abder, and Thomas Trappenberg
 - **In:** MICCAI 2019 @ ISIC Challenge, 2019
-- **Download:** [paper](https://arxiv.org/pdf/1909.04525.pdf) - [code](https://github.com/paaatcha/jedy)
+- **Download:** [paper](https://arxiv.org/pdf/1909.04525.pdf) -- [code](https://github.com/paaatcha/jedy)
 
 
 #### Recent advances in deep learning applied to skin cancer detection
 - **Authors:** Andre Pacheco and Renato Krohling
 - **In:** NeurIPS 2019 @ Retrospectives workshop
-- **Download:** [paper](https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf) | [presentation](https://slideslive.com/38923483/metaanalyses)
+- **Download:** [paper](https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf) -- [presentation](https://slideslive.com/38923483/metaanalyses)
 
 
 
@@ -80,14 +80,14 @@ This is my list of publications. It's organized in chronological time. You can a
 #### An approach to improve online sequential extreme learning machines using a restricted Boltzmann machine
 - **Authors:** Andre Pacheco and Renato Krohling
 - **In:** IEEE International Joint Conference in Neural Networks, 2018
-- **Download:** [paper](https://www.dropbox.com/s/ntpeue5xkblydx6/PID5317513.pdf?dl=0) | [code](https://github.com/paaatcha/RBM-ELM)
+- **Download:** [paper](https://www.dropbox.com/s/ntpeue5xkblydx6/PID5317513.pdf?dl=0) -- [code](https://github.com/paaatcha/RBM-ELM)
 
 
 
 #### Restricted Boltzmann machine to determine the input weights for extreme learning machines
 - **Authors:** Andre Pacheco, Carlos Silva, and Renato Krohling
 - **In:** Expert Systems with Applications, 2018
-- **Download:** [paper](http://www.sciencedirect.com/science/article/pii/S0957417417308102) | [code](https://github.com/paaatcha/RBM-ELM)
+- **Download:** [paper](http://www.sciencedirect.com/science/article/pii/S0957417417308102) -- [code](https://github.com/paaatcha/RBM-ELM)
 
 
 
@@ -122,7 +122,7 @@ This is my list of publications. It's organized in chronological time. You can a
 #### A-TOPSIS – An approach Based on TOPSIS for Ranking Evolutionary Algorithms
 - **Authors:**  Renato Krohling and Andre Pacheco
 - **In:** Procedia Computer Science, 2015
-- **Download:** [paper](https://www.dropbox.com/s/i6sezzydkpkiclj/A-TOPSIS%20-%20An%20approach%20basead%20on%20TOPSIS%20for%20ranking%20evolutionary%20algorithms.pdf?dl=0) | [code](https://github.com/paaatcha/decision-making)
+- **Download:** [paper](https://www.dropbox.com/s/i6sezzydkpkiclj/A-TOPSIS%20-%20An%20approach%20basead%20on%20TOPSIS%20for%20ranking%20evolutionary%20algorithms.pdf?dl=0) -- [code](https://github.com/paaatcha/decision-making)
 
 
 #### Time Series Prediction using Restricted Boltzmann Machines and backpropagation
