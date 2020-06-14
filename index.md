@@ -25,7 +25,7 @@ ___
 + **Nov 18:** Have a look in my new paper _"The impact of patient clinical information on automated skin cancer detection"_ published on Computers in Medicine and Biology. [Link](https://www.sciencedirect.com/science/article/pii/S0010482519304019)
 + **Oct 8:** I received the travel awards from [NeurIPS 2019](https://neurips.cc/) 🎉🎉🎉🎉
 + **Oct 3:** I got a paper accepeted for NeurIPS @ [Retrospective workshop](https://ml-retrospectives.github.io/neurips2019/schedule/). You can check it [here](https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf).
-+ **Aug 30:** I've got the 3rd place at [ISIC challenge 2019](http://challenge2019.isic-archive.com). Have a look at the description paper [here](https://arxiv.org/pdf/1909.04525.pdf).
++ **Aug 30:** I got the 3rd place at [ISIC challenge 2019](http://challenge2019.isic-archive.com). Have a look at the description paper [here](https://arxiv.org/pdf/1909.04525.pdf).
 
 ### Contact
 + **Email**: `pacheco.comp@gmail.com`
