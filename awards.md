@@ -29,3 +29,9 @@ In this page you can check my **awards, honors and prizes**. The full list in pr
 + **Aug 2019**: 3rd place (out of 16 teams) in the International Skin Imaging Collaboration challenge - ISIC 2019 task 2.
 
 + **Oct 2019**: NeurIPS travel awards
+
++ **Mar 2020**: FAPES travel awards
+
++ **Jul 2020**: Best paper award at [ISIC @ CVPR 2020](https://workshop2020.isic-archive.com/). Paper: [On Out-of-Distribution Detection Algorithms with Deep Neural Skin Cancer Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf)
+
+

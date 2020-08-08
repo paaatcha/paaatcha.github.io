@@ -17,6 +17,10 @@ ___
 
 ## News
 
++ **Aug 03:** I started to work as AI Researcher at Samsung Eletronics
+
++ **Jul 29:**  I got the best paper award at ISIC @ CVPR 2020 🎉🎉🎉🎉
+
 + **Jul 14:** Have a look at my [new paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) published in ISIC @ CVPR 2020. You can also watch the [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be).
 + **Mar 20:** I was awarded the research travel fund from FAPES 🎉🎉🎉🎉
 + **Mar 20:** I got two papers accepted in IEEE International Joint Conference on Neural Networks (IJCNN). I'll post the pre-print versions soon.
@@ -29,8 +33,7 @@ ___
 
 ### Contact
 + **Email**: `pacheco.comp@gmail.com`
-+ **Where you can find me:** `LABCIN, room 17-b CT 10, UFES`
-+ [UFES' map](https://www.google.com/maps/d/u/0/viewer?ll=-20.277576%2C-40.302658&spn=0.016102%2C0.042872&hl=en&msa=0&z=16&source=embed&ie=UTF8&mid=1bceB-PnlVIgdZnTuy1KrpZ2-KPY)
++ **Where you can find me:** right now, due to COVID-19, in my home xD
 
 
 ___
