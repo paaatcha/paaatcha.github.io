@@ -17,6 +17,8 @@ ___
 
 ## News
 
++**Aug 19:** For portuguese readers: veja reportagem sobre minha pesquisa no jornal [A Gazeta](https://www.agazeta.com.br/revista-ag/vida/aluno-da-ufes-ganha-premio-por-software-que-auxilia-na-deteccao-de-cancer-de-pele-0820) e no da [UFES](http://www.ufes.br/conteudo/software-que-auxilia-na-deteccao-de-cancer-de-pele-recebe-premio-internacional)
+
 + **Aug 03:** I started to work as AI Researcher at Samsung Eletronics
 
 + **Jul 29:**  I got the best paper award at ISIC @ CVPR 2020 🎉🎉🎉🎉
