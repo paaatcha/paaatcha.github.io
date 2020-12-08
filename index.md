@@ -3,19 +3,21 @@ layout: page
 title: Home
 ---
 ___
-Hi! Welcome to my personal page. 
-Here you’re going to find some information about my academic work as well as other topics that I have the interest.
+Hello there! Welcome to my personal webpage. 
+Here you’re going to find some information about my professional career as well as other topics that I have the interest.
 
 For more information about my work, my topics of interest and my research group, go to [Profile](profile). You also can find my list of works/publications and teaching materials in [Research](research) and [Teaching](Teaching), respectively. To check my awards and prizes, go to [Awards](awards).
 
 ___
 In my [blog](blog) area, I share some thoughts, some tutorials for my students, among other kinds of stuff. Most of the time I’m going to write in Portuguese because almost always my audience will be Brazilians.
 
-In addition, I have another blog called [Computação Inteligente](http://computacaointeligente.com.br) in which I provide, in Brazilian Portuguese, some machine learning algorithms tutorials, algorithms codes, among others stuffs. In fact, some people ask me, “why don’t you write in English in your blog?” Well, there are plenty of machine learning blogs in English, and my goal is to provide similar content to undergraduate students in Brazil that don’t feel confident enough to learn it in English. That’s the reason.
+In addition, I have an ~awesome~ humble blog called [Computação Inteligente](http://computacaointeligente.com.br). In this blog I talk about Artificial Intelligence/Machine Learning in Brazilian-Portuguese. Actually, some people ask me, “why don’t you write in English in your blog?” Well, there are plenty of machine learning blogs in English, and my goal is to provide similar content to undergraduate students in Brazil that don’t feel confident enough to learn it in English. Also, all my undergraduate and graduate studies were done for free in a public university. This is a way to return to my community the investment that was done on me. These are the reasons.
 
 ___
 
 ## News
+
++ **Nov 12:** I successfully defended my PhD thesis. I'll post the link to the thesis soon!
 
 + **Aug 19:** For portuguese readers: veja reportagem sobre minha pesquisa no jornal [A Gazeta](https://www.agazeta.com.br/revista-ag/vida/aluno-da-ufes-ganha-premio-por-software-que-auxilia-na-deteccao-de-cancer-de-pele-0820) e no da [UFES](http://www.ufes.br/conteudo/software-que-auxilia-na-deteccao-de-cancer-de-pele-recebe-premio-internacional)
 
@@ -25,7 +27,7 @@ ___
 
 + **Jul 14:** Have a look at my [new paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) published in ISIC @ CVPR 2020. You can also watch the [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be).
 + **Mar 20:** I was awarded the research travel fund from FAPES 🎉🎉🎉🎉
-+ **Mar 20:** I got two papers accepted in IEEE International Joint Conference on Neural Networks (IJCNN). I'll post the pre-print versions soon.
++ **Mar 20:** I got [two](https://ieeexplore.ieee.org/document/9206685) [papers](https://ieeexplore.ieee.org/document/9207552) accepted in IEEE International Joint Conference on Neural Networks (IJCNN)
 + **Mar 8:** Have a look at my data analysis for [Covid-19 (Coronavirus)](https://github.com/paaatcha/covid-19)
 + **Dez 13:** Check my [talk](assets/files/talks/neurips2019.pdf) at NeurIPS @ [Retrospective workshop](https://ml-retrospectives.github.io/neurips2019/schedule/)
 + **Nov 18:** Have a look in my new paper _"The impact of patient clinical information on automated skin cancer detection"_ published on Computers in Medicine and Biology. [Link](https://www.sciencedirect.com/science/article/pii/S0010482519304019)
