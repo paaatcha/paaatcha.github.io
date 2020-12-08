@@ -7,19 +7,17 @@ sidebar_sort_order: 2
 
 ___
 
-## Research group
+## Research groups
 
-<img style="float: left; width: 150px; height: 190px; padding: 30px;" src="assets/imgs/research/labcin.png">
+I have worked in three main research groups:
 
-I’m a member of the Bio-Inspired Computer Lab. (Laboratório de Computação Inspirado na Natureza, LABCIN). The lab works with different fields of computational intelligence, such as machine learning, deep learning, evolutionary computation, fuzzy systems, and decision-making. The lab is led by Prof. Renato A. Krohling and is composed of around 20 students.
++ 2016-2020: Bio-Inspired Computer Laboratory (LABCIN)
 
-Currently, I'm working as a visiting research graduate student at the Hierarchical Anticipatory Learning Lab (HALLab), under the supervision of Prof. Thomas Trappenberg at Dalhousie University, Halifax, NS, Canada.
++ 2019-2020: Hierarchical Anticipatory Learning Laboratory (HALLab), Dalhousie University
 
-___
++ 2013-2016: Optimization Laboratory (LabOtim), Federal University of Espírito Santo
 
-## Current project
-
-I'm leading a project in my Lab. that aims to detect skin cancer using clinical images collected from smartphones and patient demographics. You can check the project description [here](pages/projects/skin_cancer_diagnosis).
+Currently, I work with the Samsung R&D group in Brazil, with focus in AI applied to healtcare.
 
 ___
 
@@ -36,14 +34,13 @@ This is my list of publications. It's organized in chronological time. You can a
 #### Learning dynamic weights for an ensemble of deep models applied to medical imaging classification
 - **Authors:** Andre Pacheco, Thomas Trappenberg, and Renato Krohling
 - **In:** IEEE International Joint Conference in Neural Networks, 2020
-- **Download:** soon
-
+- **Download:** [paper](https://ieeexplore.ieee.org/document/9207552)
 
 
 #### An App to Detect Melanoma Using Deep Learning: An Approach to Handle Imbalanced Data Based on Evolutionary Algorithms. 
 - **Authors:** Pedro Castro, Breno Krohling, Andre Pacheco, and Renato Krohling
 - **In:** IEEE International Joint Conference in Neural Networks, 2020
-- **Download:** soon
+- **Download:** [paper](https://ieeexplore.ieee.org/document/9206685)
 
 
 #### Skin lesion segmentation using deep learning for images acquired from smartphones
