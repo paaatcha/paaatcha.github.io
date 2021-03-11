@@ -38,7 +38,7 @@ This is my list of publications. It's organized in chronological time. You can a
 
 
 #### On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
-- **Best paper award** :trophy:
+- **Best paper award** 🥇
 - **Authors:** Andre Pacheco, Chandramouli Sastry, Thomas Trappenberg, Sageev Oore, and Renato Krohling
 - **In:** IEEE computer society conference on Computer Vision and Pattern Recognition 2020 @ ISIC 2020 workshop
 - **Download:** [paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) -- [code](https://github.com/paaatcha/gram-ood) -- [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
