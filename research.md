@@ -25,8 +25,20 @@ ___
 This is my list of publications. It's organized in chronological time. You can also check my [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en).
 
 
+#### An attention-based mechanism to combine images and metadata in deep learning models applied to skin cancer classification
+- **Authors:** Andre Pacheco and Renato Krohling
+- **In:** IEEE Journal of Biomedical and Health Informatics
+- **Download:** [paper](https://ieeexplore.ieee.org/document/9364366) -- [code](https://github.com/paaatcha/MetaBlock)
+
+
+#### Improving Deep Learning Sound Events Classifiers using Gram Matrix Feature-wise Correlations
+- **Authors:** Antonio Joia Neto, Andre G. C. Pacheco, Diogo Carbonera Luvizon
+- **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
+- **Download:** [paper](https://arxiv.org/pdf/2102.11771.pdf) -- code -- presentation
+
 
 #### On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
+- **Best paper award** :trophy:
 - **Authors:** Andre Pacheco, Chandramouli Sastry, Thomas Trappenberg, Sageev Oore, and Renato Krohling
 - **In:** IEEE computer society conference on Computer Vision and Pattern Recognition 2020 @ ISIC 2020 workshop
 - **Download:** [paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) -- [code](https://github.com/paaatcha/gram-ood) -- [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)

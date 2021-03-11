@@ -17,7 +17,11 @@ ___
 
 ## News
 
-+ **Nov 12:** I successfully defended my PhD thesis. I'll post the link to the thesis soon!
++ **Mar 1**: Check my [new paper](https://ieeexplore.ieee.org/document/9364366) in IEEE Journal of Biomedical and Health Informatics
+
++ **Fev 10:** Have a loot at my [new paper](https://arxiv.org/pdf/2102.11771.pdf) accepted in ICCASP 2021
+
++ **Nov 12:** I successfully defended my PhD thesis. If you want to read it, [click here](https://drive.google.com/file/d/1nZt9F-u50bSXeq7e_bDnnq1Ln0DEoF_9/view?usp=sharing)
 
 + **Aug 19:** For portuguese readers: veja reportagem sobre minha pesquisa no jornal [A Gazeta](https://www.agazeta.com.br/revista-ag/vida/aluno-da-ufes-ganha-premio-por-software-que-auxilia-na-deteccao-de-cancer-de-pele-0820) e no da [UFES](http://www.ufes.br/conteudo/software-que-auxilia-na-deteccao-de-cancer-de-pele-recebe-premio-internacional)
 
