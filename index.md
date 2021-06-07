@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 ___
-Hello there! Welcome to my personal webpage. 
+`Hello world!` Welcome to my personal webpage. 
 Here you’re going to find some information about my professional career as well as other topics that I have the interest.
 
 For more information about my work, my topics of interest and my research group, go to [Profile](profile). You also can find my list of works/publications and teaching materials in [Research](research) and [Teaching](Teaching), respectively. To check my awards and prizes, go to [Awards](awards).
@@ -21,7 +21,7 @@ ___
 
 + **Fev 10:** Have a loot at my [new paper](https://arxiv.org/pdf/2102.11771.pdf) accepted in ICCASP 2021
 
-+ **Nov 12:** I successfully defended my PhD thesis. If you want to read it, [click here](https://drive.google.com/file/d/1nZt9F-u50bSXeq7e_bDnnq1Ln0DEoF_9/view?usp=sharing)
++ **Nov 12:** I successfully defended my PhD thesis. If you want to read it, [click here](https://informatica.ufes.br/en/pos-graduacao/PPGI/thesis-details?id=14992)
 
 + **Aug 19:** For portuguese readers: veja reportagem sobre minha pesquisa no jornal [A Gazeta](https://www.agazeta.com.br/revista-ag/vida/aluno-da-ufes-ganha-premio-por-software-que-auxilia-na-deteccao-de-cancer-de-pele-0820) e no da [UFES](http://www.ufes.br/conteudo/software-que-auxilia-na-deteccao-de-cancer-de-pele-recebe-premio-internacional)
 
@@ -40,7 +40,7 @@ ___
 + **Aug 30:** I got the 3rd place at [ISIC challenge 2019](http://challenge2019.isic-archive.com). Have a look at the description paper [here](https://arxiv.org/pdf/1909.04525.pdf).
 
 ### Contact
-+ **Email**: `pacheco.comp@gmail.com`
++ **Email**: `<insert_my_last_name>.comp@gmail.com`
 + **Where you can find me:** right now, due to COVID-19, in my home xD
 
 

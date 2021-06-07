@@ -17,12 +17,18 @@ I have worked in three main research groups:
 
 + 2013-2016: Optimization Laboratory (LabOtim), Federal University of Espírito Santo
 
-Currently, I work with the Samsung R&D group in Brazil, with focus in AI applied to healtcare.
+Currently, I work with the Samsung R&D group in Brazil, with focus in AI applied to healthcare.
 
 ___
 
 ## List of publications
 This is my list of publications. It's organized in chronological time. You can also check my [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en).
+
+
+#### Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations
+- **Authors:** Antonio Joia, Andre Pacheco, and Diogo Luvizon
+- **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
+- **Download:** [paper](https://arxiv.org/pdf/2102.11771) -- [code](https://github.com/a-joia/Gram-Classifier)
 
 
 #### An attention-based mechanism to combine images and metadata in deep learning models applied to skin cancer classification
