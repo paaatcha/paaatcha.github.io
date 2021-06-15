@@ -50,14 +50,6 @@
      inkscape:current-layer="svg6" />
   <g
      transform="matrix(0.04705882,0,0,0.04705882,0.0447861,0.02712509)"
-     id="post-twitter">
-    <path
-       inkscape:connector-curvature="0"
-       id="path2"
-       d="M 459,0 H 51 C 22.95,0 0,22.95 0,51 v 408 c 0,28.05 22.95,51 51,51 h 408 c 28.05,0 51,-22.95 51,-51 V 51 C 510,22.95 487.05,0 459,0 Z m -58.65,186.15 c -2.55,117.3 -76.5,198.9 -188.7,204 -45.9,2.55 -79.05,-12.75 -109.65,-30.6 33.15,5.101 76.5,-7.649 99.45,-28.05 -33.15,-2.55 -53.55,-20.4 -63.75,-48.45 10.2,2.55 20.4,0 28.05,0 -30.6,-10.2 -51,-28.05 -53.55,-68.85 7.65,5.1 17.85,7.65 28.05,7.65 -22.95,-12.75 -38.25,-61.2 -20.4,-91.8 33.15,35.7 73.95,66.3 140.25,71.4 -17.85,-71.4 79.051,-109.65 117.301,-61.2 17.85,-2.55 30.6,-10.2 43.35,-15.3 -5.1,17.85 -15.3,28.05 -28.05,38.25 12.75,-2.55 25.5,-5.1 35.7,-10.2 -2.551,12.75 -15.301,22.95 -28.051,33.15 z" />
-  </g>
-  <g
-     transform="matrix(0.04705882,0,0,0.04705882,0.0447861,0.02712509)"
      id="g7" />
   <g
      transform="matrix(0.04705882,0,0,0.04705882,0.0447861,0.02712509)"
@@ -101,16 +93,27 @@
   <g
      transform="matrix(0.04705882,0,0,0.04705882,0.0447861,0.02712509)"
      id="g35" />
-  <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:0.99999994"
-     id="rect46"
-     width="18.336836"
-     height="16.32338"
-     x="2.8851969"
-     y="3.8206499" />
+  <g
+     id="g102">
+    <g
+       id="post-twitter"
+       transform="matrix(0.04705882,0,0,0.04705882,0.0447861,0.02712509)">
+      <path
+         d="M 459,0 H 51 C 22.95,0 0,22.95 0,51 v 408 c 0,28.05 22.95,51 51,51 h 408 c 28.05,0 51,-22.95 51,-51 V 51 C 510,22.95 487.05,0 459,0 Z m -58.65,186.15 c -2.55,117.3 -76.5,198.9 -188.7,204 -45.9,2.55 -79.05,-12.75 -109.65,-30.6 33.15,5.101 76.5,-7.649 99.45,-28.05 -33.15,-2.55 -53.55,-20.4 -63.75,-48.45 10.2,2.55 20.4,0 28.05,0 -30.6,-10.2 -51,-28.05 -53.55,-68.85 7.65,5.1 17.85,7.65 28.05,7.65 -22.95,-12.75 -38.25,-61.2 -20.4,-91.8 33.15,35.7 73.95,66.3 140.25,71.4 -17.85,-71.4 79.051,-109.65 117.301,-61.2 17.85,-2.55 30.6,-10.2 43.35,-15.3 -5.1,17.85 -15.3,28.05 -28.05,38.25 12.75,-2.55 25.5,-5.1 35.7,-10.2 -2.551,12.75 -15.301,22.95 -28.051,33.15 z"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="3.8206499"
+       x="2.8851969"
+       height="16.32338"
+       width="18.336836"
+       id="rect46"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.99999994" />
+  </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.18566132px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.27964139"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.18566132px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.27964139;"
      x="3.196348"
      y="16.356384"
      id="text25"
@@ -119,5 +122,5 @@
        id="tspan23"
        x="3.196348"
        y="16.356384"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.94332027px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:1.27964139">CV</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.94332027px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:1.27964139;">CV</tspan></text>
 </svg>
