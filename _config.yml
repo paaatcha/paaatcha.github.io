@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            André Pacheco
 tagline:          ''
-description:      'AI Researcher at Samsung R&D Institute Brazil'
+description:      'AI Research Engineer at Samsung R&D Institute Brazil'
 url:              www.pachecoandre.com.br
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
