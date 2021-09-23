@@ -11,9 +11,7 @@ Here you’re going to find some information about my professional career as wel
 For more information about my work, my topics of interest and my research group, go to [Profile](profile). You also can find my list of works/publications and teaching materials in [Research](research) and [Teaching](Teaching), respectively. To check my awards and prizes, go to [Awards](awards).
 
 ___
-In my [blog](blog) area, I share some thoughts, some tutorials for my students, among other kinds of stuff. Most of the time I’m going to write in Portuguese because almost always my audience will be Brazilians.
-
-In addition, I have an ~~awesome~~ humble blog called [Computação Inteligente](http://computacaointeligente.com.br). In this blog I talk about Artificial Intelligence/Machine Learning in Brazilian-Portuguese. Actually, some people ask me, “why don’t you write in English in your blog?” Well, there are plenty of machine learning blogs in English, and my goal is to provide similar content to undergraduate students in Brazil that don’t feel confident enough to learn it in English. Also, all my undergraduate and graduate studies were done for free in a public university. This is a way to return to my community the investment that was done on me. These are the reasons.
+In my [blog](blog) area, I share some thoughts, some tutorials for my former students, among other related things. Most of the time I’m going to write in Portuguese because most of my audience will be Brazilians. 
 
 ___
 
@@ -41,7 +39,7 @@ ___
 
 ___
 
-## Links
+## Relevant Links
 + [CV](assets/files/andre-pacheco-cv.pdf)
 + [CV Lattes](http://lattes.cnpq.br/8898143425329967)
 + [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en)
