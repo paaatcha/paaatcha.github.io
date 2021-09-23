@@ -47,7 +47,7 @@ ___
 
 ## Computação inteligente
 [Computação inteligente](http://computacaointeligente.com.br) is my ~~amazing~~ humble blog. 
-I write in Brazilian-Portuguese about my topics of interest at an easily understandable level. My main goal with this blog is to help undergraduate students understand the algorithms concepts. But why don’t write in English? Well, many people in Brazil don’t speak English or don’t feel comfortable with the language. So, I’d like to help them. In addition, there are very nice blogs doing the same thing in English. My blog is just an alternative source.
+I write in Brazilian-Portuguese about my topics of interest at an easily understandable level. My main goal with this blog is to help students understand the algorithms concepts. But why don’t write in English? Well, many people in Brazil don’t speak English or don’t feel comfortable with the language. So, I’d like to help them. Also, all my undergraduate and graduate studies were done for free in a public university. This is a way to return to my community the investment that was done on me.
 
 ___
 
