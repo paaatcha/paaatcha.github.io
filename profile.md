@@ -8,7 +8,7 @@ sidebar_sort_order: 1
 ___
 
 
-I earned my Ph.D. in Computer Science from the Federal University of Espírito Santo  (UFES - Vitória, Brazil) in 2020. My [thesis]((https://drive.google.com/file/d/1nZt9F-u50bSXeq7e_bDnnq1Ln0DEoF_9/view?usp=sharing)) was developed under the supervision of [Prof. Dr. Renato A. Krohling](http://inf.ufes.br/~rkrohling). During my Ph.D., I spent almost a year as a visiting graduate research student at Dalhousie University (Halifax, Canada) supervised by [Prof. Dr. Thomas Trappenberg](https://www.dal.ca/faculty/computerscience/faculty-staff/thomas-trappenberg.html) and also worked with [Prof. Dr. Sageev Oore](https://www.dal.ca/faculty/computerscience/faculty-staff/sageev-oore.html). In my Ph.D., I worked with algorithms to detect skin cancer. From 2017 to 2020, I led a non-profit (you may find more information about this project [here](http://pachecoandre.com.br/pages/projects/skin_cancer_diagnosis)0 project in Brazil that developed an application to assist in skin cancer detection using images collected from smartphones and patient clinical information. This work resulted in many papers in which you can find in [list of publications](research). In my Ph.D. thesis, I developed an algorithm to combine skin cancer images and patient demographics. You can download and read [my thesis here](https://informatica.ufes.br/en/pos-graduacao/PPGI/thesis-details?id=14992).
+I earned my Ph.D. in Computer Science from the Federal University of Espírito Santo  (UFES - Vitória, Brazil) in 2020. My [thesis]((https://drive.google.com/file/d/1nZt9F-u50bSXeq7e_bDnnq1Ln0DEoF_9/view?usp=sharing)) was developed under the supervision of [Prof. Dr. Renato A. Krohling](http://inf.ufes.br/~rkrohling). During my Ph.D., I spent almost a year as a visiting graduate research student at Dalhousie University (Halifax, Canada) supervised by [Prof. Dr. Thomas Trappenberg](https://www.dal.ca/faculty/computerscience/faculty-staff/thomas-trappenberg.html) and also worked with [Prof. Dr. Sageev Oore](https://www.dal.ca/faculty/computerscience/faculty-staff/sageev-oore.html). In my Ph.D., I worked with algorithms to detect skin cancer. From 2017 to 2020, I led a non-profit (you may find more information about this project [here](http://pachecoandre.com.br/pages/projects/skin_cancer_diagnosis) in Brazil that developed an application to assist in skin cancer detection using images collected from smartphones and patient clinical information. This work resulted in many papers in which you can find in [list of publications](research). In my Ph.D. thesis, I developed an algorithm to combine skin cancer images and patient demographics. You can download and read [my thesis here](https://informatica.ufes.br/en/pos-graduacao/PPGI/thesis-details?id=14992).
 
 
 Prior to my Ph.D., I got my M.Sc. degree in Computer Science also at UFES. During this time, I worked with methodologies to combine an ensemble of classifiers. Also at UFES, I took my undergraduate degree in Computer Engineer (the undergraduate system in Brazil is different; we don’t have majors or minors). During this time, I got involved in different projects, and the most exciting one was the university robotic team. My colleagues and I founded ERUS (the UFES robotic team) and we have won some robotic competition promoted by IEEE. You may see my awards and prizes [here](http://pachecoandre.com.br/research.html#awards).  
@@ -35,9 +35,11 @@ I've been engaged in volunteer work since 2012. In the following, I describe the
 
 ___
 
-## Skills
-+ Python, PyTorch, Scit-Learn, Tensorflow, Java, SpringBoot, MATLAB, Angular, HTML, CSS and Latex
-+ Arduino and raspberry-pi
+## Programming Languages, Libraries, and Frameworks I’ve worked with
+- Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas, and Matplotlib
+- C, MATLAB, and Java
+- Jekyll, Spring Boot, Angular, React-native, SQL, HTML, and CSS
+- Git, Docker, and Latex
 
 You can check my [engeneering portfolio](assets/files/andre-pacheco-portfolio.pdf), in which I present some cool projects I developed throughout undergraduate.
 
@@ -55,7 +57,7 @@ My main topics of interest are:
 + Machine learning
 + Deep Learning
 + Medical imaging
-+ ML for Healthcare
++ ML for Health and wellbeing
 + Data Science
 + Decision making
 + Information fusion
