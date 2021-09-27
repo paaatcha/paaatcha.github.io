@@ -13,7 +13,7 @@ I earned my Ph.D. in Computer Science from the Federal University of Espírito S
 
 Prior to my Ph.D., I got my M.Sc. degree in Computer Science also at UFES. During this time, I worked with methodologies to combine an ensemble of classifiers. Also at UFES, I took my undergraduate degree in Computer Engineer (the undergraduate system in Brazil is different; we don’t have majors or minors). During this time, I got involved in different projects, and the most exciting one was the university robotic team. My colleagues and I founded ERUS (the UFES robotic team) and we have won some robotic competition promoted by IEEE. You may see my awards and prizes [here](http://pachecoandre.com.br/research.html#awards).  
 
-My current research focus is on Machine Learning/Artificial Intelligence and Computer Vision in particular for healthcare. Nonetheless, I also have an interest in Data Science, Natural Computing, and Decision Making. Currently, **I’m an AI Research Engineer at Samsung R&D Institute Brazil.**
+My current research focus is on Machine Learning/Artificial Intelligence and Computer Vision in particular for healthcare. Nonetheless, I also have an interest in Data Science, Natural Computing, and Decision Making. Currently, **I’m an AI Research Engineer at [Samsung R&D Institute Brazil.](https://research.samsung.com/srbr)**
 
 
 
