@@ -17,6 +17,8 @@ ___
 
 ## Some Good News
 
++ **Oct 2021**: I got a new paper accepted at the [BMVC 2021](https://www.bmvc2021.com/). Check it [here](https://arxiv.org/abs/2110.09380)
+
 + **Mar 2021**: Check my [new paper](https://ieeexplore.ieee.org/document/9364366) in IEEE Journal of Biomedical and Health Informatics
 
 + **Fev 2021:** Have a look at my [new paper](https://arxiv.org/pdf/2102.11771.pdf) accepted in ICCASP 2021
