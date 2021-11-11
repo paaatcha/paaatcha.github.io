@@ -34,4 +34,5 @@ In this page you can check my **awards, honors and prizes**. The full list in pr
 
 + **Jul 2020**: Best paper award at [ISIC @ CVPR 2020](https://workshop2020.isic-archive.com/). Paper: [On Out-of-Distribution Detection Algorithms with Deep Neural Skin Cancer Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf)
 
++ **Oct 2021**: Silver award at the Samsung Best Paper Award (SBPA) 2021 in the Bio & Health track
 

@@ -17,7 +17,7 @@ ___
 
 ## Some Good News
 
-+ **Oct 2021**: I got the silver award at Samsung Best Paper Award (SBPA 2021) in the Bio & Health track! 🎉🎉🎉🎉
++ **Oct 2021**: I got the silver award at the Samsung Best Paper Award (SBPA 2021) in the Bio & Health track! 🎉🎉🎉🎉
 
 + **Oct 2021**: I got a new paper accepted at the [BMVC 2021](https://www.bmvc2021.com/). Check our paper page [here](https://cyclempi.github.io/)
 
