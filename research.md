@@ -25,6 +25,12 @@ ___
 This is my list of publications. It's organized in chronological time. You can also check my [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en).
 
 
+#### Learning multiplane images from single views with self-supervision
+- **Authors:** Gustavo S. P. Carvalho, Diogo C. Luvizon, Antonio Joia, Andre G. C. Pacheco, Otavio A. B. Penatti
+- **In:** British Machine Vision Conference (BMVC) 2021
+- **Download:** [paper](https://arxiv.org/pdf/2110.09380.pdf) -- [page](https://cyclempi.github.io/)
+
+
 #### Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations
 - **Authors:** Antonio Joia, Andre Pacheco, and Diogo Luvizon
 - **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
