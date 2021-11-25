@@ -28,7 +28,7 @@ This is my list of publications. It's organized in chronological time. You can a
 #### Learning multiplane images from single views with self-supervision
 - **Authors:** Gustavo S. P. Carvalho, Diogo C. Luvizon, Antonio Joia, Andre G. C. Pacheco, Otavio A. B. Penatti
 - **In:** British Machine Vision Conference (BMVC) 2021
-- **Download:** [paper](https://arxiv.org/pdf/2110.09380.pdf) -- [page](https://cyclempi.github.io/)
+- **Download:** [paper](https://arxiv.org/pdf/2110.09380.pdf) -- [page](https://cyclempi.github.io/) -- [presentation](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0092.html)
 
 
 #### Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations
