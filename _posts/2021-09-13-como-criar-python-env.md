@@ -35,7 +35,7 @@ ___
     ```
     $ python -m venv <nome_do_ambiente>
     ```
-    o termo `<nome_do_ambiente>` é o nome que você vai dar para o seu ambiente, por exemplo, `gandalf` (vamos usar esse nome daqui para frente).
+    O termo `<nome_do_ambiente>` é o nome que você vai dar para o seu ambiente, por exemplo, `gandalf` (vamos usar esse nome daqui para frente).
 
 3. **Ativando o ambiente**: agora que você criou o ambiente, você precisa ativá-lo para começar a utilizar. Para ativar você executa o seguinte comando na mesma pasta que você executou o passo anterior:
       ```
