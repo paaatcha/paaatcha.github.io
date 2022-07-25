@@ -3,6 +3,7 @@ layout: single
 classes:
   - wide
 author_profile: true
+title: ""
 ---
 
 # <i class="fas fa-code"></i> `Hello World!` <i class="fas fa-code"></i>
