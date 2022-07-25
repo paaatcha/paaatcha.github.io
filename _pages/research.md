@@ -26,7 +26,7 @@ ___
 
 ## Research groups
 
-I've in the following research groups:
+I've worked in the following research groups:
 
 - *2020 - 2022*: AI R&D Lab - Samsung Research Institute Brazil (SRBR) Campinas, Brazil
 - *2019 - 2020*: Hierarchical Anticipatory Learning Lab. (HALLab), Dalhousie University Halifax, Canada
