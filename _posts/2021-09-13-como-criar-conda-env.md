@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Como criar um conda virtual environment
+classes: wide
+header:
+  teaser: "/assets/imgs/posts/conda.png"
+categories:
+  - Blog
 tags:
-  - artigo  
-  - python
-  - conda environment
-  - ambiente virtual
-  - anaconda
-  - conda
+  - Artigo
+  - Python
+  - Conda
+  - Ambiente Virtual
 ---
 
 Um ambiente virtual (ou em inglês *virtual environment*) pode ser criado a usando o gerenciador `conda`. Para mais informações sobre ambientes virtuais, de uma olhada no post [Como criar um ambiente virtual em Python](http://pachecoandre.com.br/2021/09/13/como-criar-python-env.html)
-
 
 
 ## Criação do ambiente usando `conda`

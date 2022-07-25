@@ -1,9 +1,14 @@
 ---
-layout: post
-title: Getting started in Compute Canada
+title: "Getting started in Compute Canada"
+classes: wide
+header:
+  teaser: "assets/imgs/posts/comp_canada.jpeg"
+categories:
+  - Blog  
 tags:
-  - tutorial
-  - compute canada
+  - Tutorial
+  - Compute Canada
+  - Canada
 ---
 
 ## What's Compute Canada?

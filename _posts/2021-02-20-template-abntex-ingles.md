@@ -1,13 +1,19 @@
 ---
-layout: post
 title: Template ABNTEX-2 para teses e dissertações em inglês
+classes: wide
+header:
+  teaser: "/assets/imgs/posts/latex.png"
+categories:
+  - Blog
 tags:
-  - artigo  
-  - latex
-  - abntex
-  - tese
-  - dissertação
+  - Artigo
+  - Latex
+  - ABNTex
+  - Tese
+  - Dissertação
+  - Pós-Graduação
 ---
+
 
 Se você já sabe o que é Latex, ABNTEX, ou só quer o template, vá para a seção [ABNTEX-2 em inglês e com citação minúscula](#template)
 
