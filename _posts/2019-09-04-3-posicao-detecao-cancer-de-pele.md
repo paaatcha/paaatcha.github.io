@@ -1,15 +1,15 @@
 ---
-layout: post
 title: Como eu alcancei o 3ª lugar no desafio internacional de deteção de cancer de pele
+classes: wide
+header:
+  teaser: "/assets/imgs/skin_cancer/12.jpg"
+categories:
+  - Blog
 tags:
-  - artigo
-  - deep learning
-skin:
-  - url: assets/imgs/skin_cancer/12.jpg
-    image_path: assets/imgs/skin_cancer/12.jpg
-    
-  - url: assets/imgs/skin_cancer/13.jpg
-    image_path: assets/imgs/skin_cancer/13.jpg
+  - Artigo
+  - Câncer de pele
+  - Health
+  - Deep Learning
 ---
 
 Escrevo este post para falar um pouco do ótimo resultado que eu obtive no ISIC 2019. Escrevo basicamente por dois motivos: 1) eu estou satisfeito com o resultado e gostaria de compartilhar; 2) atualmente a ciência brasileira está sendo desmantelada. Eu sou (era, não sei vão me pagar já que houve novos cortes ontem) bolsista da CAPES e esse resultado não teria acontecido sem esse fomento. Portanto, quero mostrar que a pesquisa brasileira não vive de balbúrdia e sim de resultados.
@@ -21,7 +21,15 @@ Quem acompanha meu trabalho sabe que minha área de pesquisa atual envolve detec
 
 O ISIC é uma sigla em inglês para _International Skin Imaging Collaboration_. Desde 2016 eles possuem um desafio de detecção de câncer de pele utilizando imagens de lesões de pele e outras informações. Abaixo você pode ver dois exemplos de imagens que o algoritmo desenvolvido deve diagnosticar.
 
-{% include gallery id="skin" layout="half" %}
+<figure class="half">
+  <a href="/assets/imgs/skin_cancer/12.jpg">
+  <img src="/assets/imgs/skin_cancer/12.jpg"></a>
+
+  <a href="/assets/imgs/skin_cancer/13.jpg">
+  <img src="/assets/imgs/skin_cancer/13.jpg"></a>
+
+  <figcaption>Exemplos de amostras do banco de dados da ISIC 2019.</figcaption>
+</figure>
 
 Esse desafio ganhou bastante atenção ao longo dos últimos 3 anos. O principal motivo foi que pela primeira vez uma base de dados do tipo estava sendo aberta e colaborativamente construínda. Anualmente, essa base é incrementada e uma nova tarefa é incluída para desafiar os participantes. De maneira geral, participam desse desafio pesquisadores da área. Este ano foram 64 times e mais de 140 submissões únicas.
 

@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Como criar um ambiente virtual em Python
+classes: wide
+header:
+  teaser: "/assets/imgs/posts/python.jpeg"
+categories:
+  - Blog
 tags:
-  - artigo  
-  - python
-  - virtual environment
-  - ambiente virtual
+  - Artigo
+  - Python  
+  - Ambiente Virtual
 ---
 
 Um ambiente virtual (ou em inglês *virtual environment*) é uma ferramenta para gerenciar dependências e isolar projetos em Python. A ideia é que funcione similar a um container Docker, mas de maneira muito mais simples. Se você não sabe nada sobre o assunto, sugiro que dê uma olhada [neste vídeo](https://www.youtube.com/watch?v=f_Rf2ZnV1Mk) ou [neste artigo.](https://docs.python.org/pt-br/3/library/venv.html)

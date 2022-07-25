@@ -1,10 +1,19 @@
 ---
-layout: post
-title: Como instalar o Code::blocks
+title: "Como instalar o Code::blocks"
+excerpt: "Este post é destinado aos alunos de Engenharia nas quais eu auxilio no ensino da linguagem de programação C. Como muitos me perguntavam como configurar o ambienta para começar a desenvolver suas respectivas tarefas, decidi fazer este post/video."
+classes: wide
+header:
+  teaser: "assets/imgs/posts/code_blocks.png"
+categories:
+  - Blog  
 tags:
-  - tutorial
   - C
+  - IDE
+  - Instalação
+  - Tutorial
 ---
+
+
 Este post é destinado aos alunos de Engenharia nas quais eu auxilio no ensino da linguagem de programação C. Como muitos me perguntavam como configurar o ambienta para começar a desenvolver suas respectivas tarefas, decidi fazer este post/video.
 
 O Code::Blocks é um ambiente de desenvolvimento integrado (IDE) para plataformas Linux, MAC OS e Windows, que permite escrever aplicativos para ambiente gráficos ou aplicativos de console em linguagem C ou C++, com suporte a múltiplos compiladores como GCC/MinGW, SDCC, Intel C++, GNU ARM entre outros.
