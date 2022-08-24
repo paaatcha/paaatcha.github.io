@@ -25,6 +25,7 @@ ___
 {: .index_color}
 
 
++ <span class="news"> <span class="index_color"> **Jul 2022:** </span> The [ICEPi](https://icepi.es.gov.br/) incubator is going to finance our [PAD-UFES project](/projects/skin_cancer_diagnosis/)  </span>
 + <span class="news"> <span class="index_color"> **Jun 2022:** </span> I joined UFES as an Assistant Professor at the Department of Informatics </span>
 + <span class="news"> <span class="index_color"> **Mar 2022:** </span> I got the [silver award](https://www.linkedin.com/feed/update/urn:li:share:6907384896474742785?utm_source=linkedin_share&utm_medium=member_desktop_share&utm_content=post) at the Samsung Best Paper Award (SBPA 2021) in the Bio & Health track! 🎉🎉🎉 </span>
 + <span class="news"> <span class="index_color"> **Oct 2021**: </span> I got a new paper accepted at the [BMVC 2021](https://www.bmvc2021.com/). Check our paper page [here](https://cyclempi.github.io/) </span>
