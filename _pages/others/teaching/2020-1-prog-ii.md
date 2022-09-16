@@ -125,5 +125,4 @@ Existe muito conteúdo em livros, apostilas e vídeos na internet. Deixo uma lis
 
 **Importante**: se você tem dúvida em algum exercício e quer compartilhar o código comigo, faça via [Github](http://github.com/). Se você não conhece, não tem problema. [Aqui tem um tutorial que fiz de introdução ao Git](http://pachecoandre.com.br/2018/10/18/mini-tutorial-git.html). Acredite, Git é importantíssimo e exigência de qualquer emprego de programação.
 
-Em breve exercícios.
 
