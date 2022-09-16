@@ -10,6 +10,11 @@ excerpt: "Here you can find the disciplines I taught or acted as a teaching assi
 
 Here you can find the disciplines I taught or acted as a teaching assistant. It's available only in Portuguese.
 
+### 2022/1
++ [Programação I](/teaching/prog-I/)
++ [Programação para dispositivos móveis](/teaching/prog-mobile/)
+
+
 ### 2020/1
 + TA: [Programação II](/teaching/prog-ii-2020-1/)
 
