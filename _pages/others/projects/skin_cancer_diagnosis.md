@@ -46,6 +46,7 @@ ____
 
 **Update:** we've had some papers published about this project. Thus, you can find the full description on:
 
++ An attention-based mechanism to combine images and metadata in deep learning models applied to skin cancer classification. [Download](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364366)
 + The impact of patient clinical information on automated skin cancer detection. [Download](https://www.sciencedirect.com/science/article/pii/S0010482519304019)
 + Recent advances in deep learning applied to skin cancer detection. [Download](https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf)
 
