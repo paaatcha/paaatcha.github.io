@@ -597,9 +597,21 @@ a.reversefootnote {
 }
 
 .news {
-  font-size: 14pt;    
+  font-size: 14pt;
 }
 
-.custom_footer a{  
+.custom_footer a{
   color: $index_color;
+}
+
+ul li, ol li {
+  margin-bottom: 0.1em;
+}
+
+nav {
+  font-size: 18px;
+}
+
+.h-less-space {
+  margin-top: 0;
 }
