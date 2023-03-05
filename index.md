@@ -15,6 +15,8 @@ Welcome to my personal webpage. Here, you'll find information about my professio
 
 If you're interested in learning more about my career and work experience, please refer to [Profile](profile). To find out more about my research topics and groups I'm affiliated with, as well as my [list of publications](/research/#list-of-publications), check out my [Research](research) page. If you'd like to see my awards, honors, and prizes, head to the [Awards section](awards). In the teaching section, you'll find my teaching materials and information on how to book a conversation with me.
 
+If you're looking for opportunities to work with me or want to have look at my current and former students, please check the [Students](students) page.
+
 Lastly, in the [blog](blog) area, I share my thoughts, tutorials for my students, and other related content. Most of the posts are written in Portuguese because my primary audience is Brazilian.
 
 ___

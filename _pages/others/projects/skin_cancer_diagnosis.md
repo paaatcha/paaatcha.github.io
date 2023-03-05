@@ -52,7 +52,7 @@ ____
 
 ____
 
-Here I describe the skin cancer project that I'm leading in my Lab. The main goal of my Ph.D. is to provide algorithms to deal with this problem. I'm going to describe what we've developed and what we are doing right now. But first, you may want to know how this story has started. So, it's described <a href="melanoma_detection" target="_blank" rel="noopener">here</a>.
+Here I describe the skin cancer project that I'm leading in my Lab. The main goal of my Ph.D. is to provide algorithms to deal with this problem. I'm going to describe what we've developed and what we are doing right now. But first, you may want to know how this story has started. So, it's described <a href="#" target="_blank" rel="noopener">here</a>.
 <h3>Motivation</h3>
 Skin cancer is the most common dysplasia around the world. Currently, around 3 million skin cancers occur globally each year [1]. In Brazil, it is one of the most serious public health issues. According to the Brazilian Cancer Institute [2], skin cancer accounts for 33% of all cancer diagnoses in the country. This is the highest diagnosis rate among all kind of cancer. Further, over the past decade, the skin cancer incidence increased 55% and for 2018-2019 it is expected 180 thousand new cases in the whole country. Nowadays, every hour a person dies in Brazil due to a skin cancer disease [2].
 
