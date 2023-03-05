@@ -34,6 +34,14 @@ I've worked in the following research groups:
 - *2013 - 2016*: Optimization laboratory (LabOtim), Federal University of Espírito Santo Vitória, Brasil
 
 
+## Conference and Journal Reviewing
+- 2023: Artificial Intelligence in Medicine and Biomedical Signal Processing and Control
+- 2022: IEEE Journal of Biomedical and Health Informatics
+- 2021: IEEE Journal of Biomedical and Health Informatics, Medical Image Analysis, ISIC @ CVPR (program committee)
+- 2020: IEEE Journal of Biomedical and Health Informatics
+- 2019: Computers \& Industrial Engineering, IEEE International Joint Conference on Neural Networks, and Neurocomputing
+- 2018: IEEE International Joint Conference on Neural Networks
+
 
 ## List of publications
 This is my list of publications. It's organized in chronological time. You can also check my [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en).

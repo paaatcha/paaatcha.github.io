@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /profile/
-title: "Profile 🧐"
+title: "Profile 🗒️"
 classes: wide
 author_profile: true
 ---
