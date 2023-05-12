@@ -35,7 +35,7 @@ I've worked in the following research groups:
 
 
 ## Conference and Journal Reviewing
-- 2023: Artificial Intelligence in Medicine and Biomedical Signal Processing and Control, IEEE Journal of Biomedical and Health Informatics
+- 2023: Artificial Intelligence in Medicine, Biomedical Signal Processing and Control, and IEEE Journal of Biomedical and Health Informatics
 - 2022: IEEE Journal of Biomedical and Health Informatics
 - 2021: IEEE Journal of Biomedical and Health Informatics, Medical Image Analysis, ISIC @ CVPR (program committee)
 - 2020: IEEE Journal of Biomedical and Health Informatics
@@ -244,6 +244,12 @@ ___
 - **Authors:**  Renato Krohling and Andre Pacheco
 - **In:** Simpósio Brasileiro de Pesquisa Operacional, 2013
 - **Download:** [paper](https://www.dropbox.com/s/3ip2o2wtnk3us1q/IFG-TODIM%20AN%20INTUITIONISTIC%20FUZZY%20TODIM%20FOR%20GROUP.pdf?dl=0)
+
+___
+
+## Thesis
+- PhD thesis: [Combining heterogeneous data and deep learning models for skin cancer detection](/assets/files/phd_thesis.pdf)
+- Master thesis (pt-br only): [Agregação de classificadores neurais via integral de Choquet com respeito a uma medida fuzzy](/assets/files/master_thesis.pdf)
 
 ___
 
