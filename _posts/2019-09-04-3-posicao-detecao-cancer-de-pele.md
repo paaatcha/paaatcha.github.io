@@ -8,7 +8,7 @@ categories:
 tags:
   - Artigo
   - Câncer de pele
-  - Health
+  - Health Informatics
   - Deep Learning
 ---
 

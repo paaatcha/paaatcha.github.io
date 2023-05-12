@@ -597,9 +597,61 @@ a.reversefootnote {
 }
 
 .news {
-  font-size: 14pt;    
+  font-size: 14pt;
 }
 
-.custom_footer a{  
+.custom_footer a{
   color: $index_color;
+}
+
+ul li, ol li {
+  margin-bottom: 0.1em;
+}
+
+nav {
+  font-size: 18px;
+}
+
+.h-less-space {
+  margin-top: 0;
+}
+
+.student-container {
+  display: flex;
+  align-items: top;
+  gap: 10px;
+  padding: 10px;
+  background-color: #f2f3f3;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.student-on {
+  background-color: #c3e0c3a9;
+}
+
+.student-img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 10%;
+}
+
+.student-info {
+  margin-top: -20px;
+  font-size: 18px;
+}
+
+.student-info ul {
+  padding-left: 15px;
+  margin-bottom: -5px;;
+}
+
+.student-info li {
+  margin-bottom: 0;
+}
+
+.student-info li a{
+  text-decoration: none;
+  font-weight: 550;
 }

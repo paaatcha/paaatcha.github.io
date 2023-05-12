@@ -2,12 +2,14 @@
 main:
   - title: "Home 🏠"
     url: /
-  - title: "Profile 🧐"
+  - title: "Profile 🗒️"
     url: /profile/
   - title: "Research 🔬"
     url: /research/
   - title: "Awards 🏅"
     url: /awards/
+  - title: "Students 🎓"
+    url: /students/
   - title: "Teaching 🧑‍🏫"
     url: /teaching/
   - title: "Blog 🎈"
