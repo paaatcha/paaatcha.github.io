@@ -28,6 +28,8 @@ ___
 
 I've worked in the following research groups:
 
+- *2022 - now*: Institute of Applied Computational Intelligence (I2CA)
+- *2022 - now*: High Performance Computing Laboratory (LCAD)
 - *2020 - 2022*: AI R&D Lab - Samsung Research Institute Brazil (SRBR) Campinas, Brazil
 - *2019 - 2020*: Hierarchical Anticipatory Learning Lab. (HALLab), Dalhousie University Halifax, Canada
 - *2016 - 2020*: Bio-inspired Laboratory (LABCIN), Federal University of Espírito Santo Vitória, Brasil
