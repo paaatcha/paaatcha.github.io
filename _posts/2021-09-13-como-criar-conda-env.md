@@ -35,7 +35,7 @@ ___
 ### Passo a passo da criação do ambiente virtual
 1. O comando padrão para criar um ambiente usando conda é o seguinte:
     ```
-    $ conda create <nome_do_ambiente>
+    $ conda create --name <nome_do_ambiente>
     ```
     O termo `<nome_do_ambiente>` é o nome que você vai dar para o seu ambiente, por exemplo, `gandalf` (vamos usar esse nome daqui para frente). Esse comando vai criar um ambiente dentro da pasta padrão do `conda` (normalmente, `(ana)conda/env`). Para criar um ambiente em outra pasta qualquer, você pode usar:
     ```
