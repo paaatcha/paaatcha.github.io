@@ -25,6 +25,8 @@ ___
 {: .index_color}
 
 
++ <span class="news"> <span class="index_color"> **Jul 2023**: </span> The [patent](https://patents.google.com/patent/US20230190120A1/en) related to heart rate detection using Galaxy Watch 4 and 5 has been made public  </span>
++ <span class="news"> <span class="index_color"> **Jun 2023**: </span> Another [paper](https://ieeexplore.ieee.org/document/10095339), developed along with my Samsung colleagues, has been accepted in the ICASSP 2023 </span>
 + <span class="news"> <span class="index_color"> **Feb 2023**: </span> My [new paper](https://ieeexplore.ieee.org/document/10057982), developed along with my Samsung colleagues, has been accepted in the IEEE Journal of Biomedical and Health Informatics </span>
 + <span class="news"> <span class="index_color"> **Nov 2022:** </span> I, along with [Prof. Thiago Oliveira](http://www.inf.ufes.br/~todsantos/home-2) and [Prof. Filipe Mutz](http://www.fmtz.com.br/about/), got funding from [FAPES](https://fapes.es.gov.br/) to build a health research lab at [UFES](https://ufes.br/)</span>
 + <span class="news"> <span class="index_color"> **Sep 2022:** </span> I joined [LCAD](http://www.lcad.inf.ufes.br/) and [I2CA](http://i2ca.ai/) as an associated researcher </span>

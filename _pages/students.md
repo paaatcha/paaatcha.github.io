@@ -45,21 +45,6 @@ ___
   </div>
 </div>
 
-<!-- ########################################################################################## -->
-
-<div class="student-container student-on">
-  <img src="https://avatars.githubusercontent.com/u/106553072?v=4" alt="Student image" class="student-img">
-  <div class="student-info">
-    <ul>
-      <li> 
-        <a href="https://github.com/LuizGBR" target="_blank"> Luiz Gabriel Bandeira </a>
-      </li>
-      <li>
-        Topics: Machine Learning | Skin lesion classification
-      </li>      
-    </ul>
-  </div>
-</div>
 
 <!-- ########################################################################################## -->
 
@@ -72,20 +57,6 @@ ___
       </li>
       <li>
         Topics: Data visualization | Web development
-      </li>      
-    </ul>
-  </div>
-</div>
-
-<div class="student-container student-on">
-  <img src="https://avatars.githubusercontent.com/u/17914075?v=4" alt="Student image" class="student-img">
-  <div class="student-info">
-    <ul>
-      <li> 
-        <a href="https://github.com/Kaique-Passos" target="_blank"> Kaique Passos </a>
-      </li>
-      <li>
-        Topics: Android development | Machine Learning Deployment
       </li>      
     </ul>
   </div>
@@ -174,25 +145,6 @@ ___
   <div class="student-info">
     <ul>
       <li> 
-        <a href="https://github.com/xcelsim" target="_blank"> João Celso Aguiar Marques </a>
-      </li>
-      <li>
-        Topics: Fullstack development | Data collection | Skin lesion classification
-      </li>
-      <li> 
-        Scholarship: <a href="https://fapes.es.gov.br/"> FAPES </a>
-      </li>
-    </ul>
-  </div>
-</div>
-
-<!-- ########################################################################################## -->
-
-<div class="student-container student-on">
-  <img src="/assets/imgs/student-profile.png" alt="Student image" class="student-img">
-  <div class="student-info">
-    <ul>
-      <li> 
         <a href="https://github.com/gabryelfbatista" target="_blank"> Gabryel Batista </a>
       </li>
       <li>
@@ -223,14 +175,53 @@ ___
 #### Undergradute
 
 <div class="student-container">
-  <img src="https://media.licdn.com/dms/image/C4D03AQHJD03J8Z1JfQ/profile-displayphoto-shrink_100_100/0/1527195632223?e=1683763200&v=beta&t=lodPVmz5NW9gl-Sj1ROcs1E45dw1ZUVj7G1MrXpEbWY" alt="Student image" class="student-img">
+  <img src="https://avatars.githubusercontent.com/u/106553072?v=4" alt="Student image" class="student-img">
+  <div class="student-info">
+    <ul>
+      <li> 
+        <a href="https://github.com/LuizGBR" target="_blank"> Luiz Gabriel Bandeira </a>
+      </li>
+      <li> 
+        <a href="/assets/files/students/pgs/luiz_gabriel.pdf" target="_blank"> Análise de transferência de aprendizado com rótulos fracos para classificação de câncer de pele </a>
+      </li>
+      <li> 
+        Supervisor: Andre G. C. Pacheco         
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- ########################################################################################## -->
+
+<div class="student-container">
+  <img src="/assets/imgs/student-profile.png" alt="Student image" class="student-img">
+  <div class="student-info">
+    <ul>
+      <li> 
+        <a href="https://github.com/xcelsim" target="_blank"> João Celso Aguiar Marques </a>
+      </li>
+      <li>
+        Topics: Fullstack development
+      </li>
+      <li> 
+        Scholarship: <a href="https://fapes.es.gov.br/"> FAPES </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- ########################################################################################## -->
+
+<div class="student-container">
+  <img src="https://avatars.githubusercontent.com/u/11546721?v=4" alt="Student image" class="student-img">
   <div class="student-info">
     <ul>
       <li> 
         <a href="https://br.linkedin.com/in/gabrielgangelo" target="_blank"> Gabriel Giorisatto de Angelo </a>
       </li>
       <li> 
-        <a href="https://drive.google.com/file/d/1L9D3cnXuOmGD16NOhVDdxutEMyHyDTbZ/view?usp=share_link" target="_blank"> Skin cancer segmentation using deep learning for images acquired from smartphones </a>
+        <a href="/assets/files/students/pgs/gabriel_deangelo.pdf" target="_blank"> Skin cancer segmentation using deep learning for images acquired from smartphones </a>
       </li>
       <li>
         Code: <a href="https://github.com/gabrielgiorisatto/segmentation_pad" target="_blank"> Github </a>
@@ -245,7 +236,7 @@ ___
 <!-- ########################################################################################## -->
 
 <div class="student-container">
-  <img src="https://media.licdn.com/dms/image/C5603AQGF9Ku6DXwA_A/profile-displayphoto-shrink_100_100/0/1517014044085?e=1683763200&v=beta&t=lD6quXYZtT1U9sArqkNhh-3wlgv3usMHXb7tIAHKVZU" alt="Student image" class="student-img">
+  <img src="https://media.licdn.com/dms/image/C5603AQGF9Ku6DXwA_A/profile-displayphoto-shrink_100_100/0/1517014044085?e=1695859200&v=beta&t=qmDBPXOJy1DdymkLuBCf_-Hw3hqwv85Nuxwq3h_3Pg8" alt="Student image" class="student-img">
   <div class="student-info">
     <ul>
       <li> 
@@ -264,7 +255,7 @@ ___
 <!-- ########################################################################################## -->
 
 <div class="student-container">
-  <img src="https://media.licdn.com/dms/image/C4E03AQFCqN4TiMmLdA/profile-displayphoto-shrink_100_100/0/1576543103268?e=1683763200&v=beta&t=N51RcgGE_XurA__rSTABvMVf_OZ5sqbibp1ltKhL2Nc" alt="Student image" class="student-img">
+  <img src="https://avatars.githubusercontent.com/u/13681891?v=4" alt="Student image" class="student-img">
   <div class="student-info">
     <ul>
       <li> 
@@ -293,7 +284,7 @@ ___
         <a href="https://www.linkedin.com/in/guilhermeartem/?originalSubdomain=br" target="_blank"> Guilherme Artém dos Santos </a>
       </li>
       <li> 
-        <a href="https://drive.google.com/file/d/1FSKBpkWjCwZ0qmEEnAUbzCXEVooQluD-/view?usp=share_link" target="_blank"> Máquinas de Boltzmann restrita usando
+        <a href="/assets/files/students/pgs/guilherme_artem.pdf" target="_blank"> Máquinas de Boltzmann restrita usando
         otimização via enxame de partículas para classificação de dados </a>
       </li>
       <li> 

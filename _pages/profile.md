@@ -31,9 +31,9 @@ For a complete description, please, refer to my [Curriculum Vitae]("/assets/file
 ## Programming Languages, Libraries, and Frameworks I’ve worked with
 - Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas, and Matplotlib
 - C, MATLAB, Java, and Kotlin
-- Jekyll, Spring Boot, Angular, React-native, SQL, HTML, and CSS
+- Android, Jekyll, Spring Boot, Angular, React-native, SQL, HTML, and CSS
 - Git, Docker, and Latex
-- Arduino and Raspberry-Pi
+- ESP-32, Arduino and Raspberry-Pi
 
 For more information, you can check my [Github](https://github.com/paaatcha) and/or my [Engeneering Portfolio](/assets/files/andre-pacheco-eng-undergrad-portfolio.pdf), in which I present some cool projects I developed throughout my undergraduate.
 

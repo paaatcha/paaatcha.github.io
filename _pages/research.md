@@ -50,7 +50,7 @@ This is my list of publications. It's organized in chronological time. You can a
 ###### <i class="fab fa-diaspora"></i> Towards low-power heart rate estimation based on user's demographics and activity level for wearable 
 - **Authors:** Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti
 - **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
-- **Download:** Paper (soon)
+- **Download:** [Paper](https://ieeexplore.ieee.org/document/10095339)
 
 ___
 
@@ -91,6 +91,14 @@ ___
 - **Authors:** Antonio Joia Neto, Andre G. C. Pacheco, Diogo Carbonera Luvizon
 - **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
 - **Download:** [paper](https://arxiv.org/pdf/2102.11771.pdf) -- code -- presentation
+
+___
+
+
+###### <i class="fab fa-diaspora"></i> PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones
+- **Authors:** Andre G. C. Pacheco et al.
+- **In:** Data in Brief
+- **Download:** [paper](https://www.sciencedirect.com/science/article/pii/S235234092031115X) -- [data](https://data.mendeley.com/datasets/zr7vgbcyr2/1)
 
 ___
 
@@ -258,6 +266,8 @@ ___
 
 Here you may find some talks and presentations I carried out throughout the years. Some are in English and others in Portuguese:
 
++ **Ago 2023:** Out-of-distribution (OOD) detection: uma visão geral sobre o tópico para classificação de imagens
+. [Download](https://docs.google.com/presentation/d/17cQ2pQXM6k8zPT7Ot2-7VMzwtZ2kL6KTOrh4GZiVG2o/edit?usp=drive_link)
 + **Nov 2022:** Como a Inteligência Artificial afeta seu cotidiano. [Download](https://docs.google.com/presentation/d/1a8PLjqPwv-krvLmTS3axBK3piFYsLrONvdhNiRe8Vpw/edit?usp=share_link)
 + **Oct 2022:** Ética em Inteligência Artificial - Por que precisamos falar sobre esse assunto?. [Download](https://docs.google.com/presentation/d/1j5VRLYSsqWOwTk5R1gdb7xU08IMZqBp-q8dY-HonNZY/edit?usp=share_link)
 + **Apr 2021:** Sobrevivendo na graduação: guia (quase) definitivo. [Download](https://docs.google.com/presentation/d/1iif68hk4698zEXta-QxEaiCjF1Z-4uNx2Mj-XjtFVbg/edit?usp=sharing)
