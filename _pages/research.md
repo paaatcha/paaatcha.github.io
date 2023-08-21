@@ -55,6 +55,7 @@ This is my list of publications. It's organized in chronological time. You can a
 ___
 
 
+
 ###### <i class="fab fa-diaspora"></i> Learning to estimate heart rate from accelerometer and user's demographics during physical exercises
 - **Authors:** Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Vanessa B. O. Fioravanti, Rafael G. Lima, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti
 - **In:** IEEE Journal of Biomedical and Health Informatics
@@ -96,11 +97,17 @@ ___
 
 
 ###### <i class="fab fa-diaspora"></i> PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones
+- **Authors:** Andre Pacheco and Renato Krohling
+- **In:** Computers in Biology and Medicine
+- **Download:** [paper](https://www.sciencedirect.com/science/article/pii/S0010482519304019) -- [data](https://data.mendeley.com/datasets/zr7vgbcyr2/1)
+
+___
+
+
+###### <i class="fab fa-diaspora"></i> The impact of patient clinical information on automated skin cancer detection
 - **Authors:** Andre G. C. Pacheco et al.
 - **In:** Data in Brief
 - **Download:** [paper](https://www.sciencedirect.com/science/article/pii/S235234092031115X) -- [data](https://data.mendeley.com/datasets/zr7vgbcyr2/1)
-
-___
 
 
 ###### <i class="fab fa-diaspora"></i> On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
