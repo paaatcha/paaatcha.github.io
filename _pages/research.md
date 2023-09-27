@@ -35,244 +35,33 @@ I've worked in the following research groups:
 
 
 ## Conference and Journal Reviewing
-- 2023: Artificial Intelligence in Medicine, Biomedical Signal Processing and Control, and IEEE Journal of Biomedical and Health Informatics
+- 2023: Artificial Intelligence in Medicine, Biomedical Signal Processing and Control, IEEE Journal of Biomedical and Health Informatics, and MethodsX
 - 2022: IEEE Journal of Biomedical and Health Informatics
 - 2021: IEEE Journal of Biomedical and Health Informatics, Medical Image Analysis, ISIC @ CVPR (program committee)
 - 2020: IEEE Journal of Biomedical and Health Informatics
-- 2019: Computers \& Industrial Engineering, IEEE International Joint Conference on Neural Networks, and Neurocomputing
+- 2019: Computers & Industrial Engineering, IEEE International Joint Conference on Neural Networks, and Neurocomputing
 - 2018: IEEE International Joint Conference on Neural Networks
+
+
+## Thesis
+- PhD thesis: [Combining heterogeneous data and deep learning models for skin cancer detection](/assets/files/phd_thesis.pdf)
+- Master thesis (pt-br only): [Agregação de classificadores neurais via integral de Choquet com respeito a uma medida fuzzy](/assets/files/master_thesis.pdf)
+
 
 
 ## List of publications
 This is my list of publications. It's organized in chronological time. You can also check my [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en).
 
 
-###### <i class="fab fa-diaspora"></i> Towards low-power heart rate estimation based on user's demographics and activity level for wearable 
-- **Authors:** Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti
-- **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
-- **Download:** [Paper](https://ieeexplore.ieee.org/document/10095339)
+{% include papers.html %}
 
-___
-
-
-
-###### <i class="fab fa-diaspora"></i> Learning to estimate heart rate from accelerometer and user's demographics during physical exercises
-- **Authors:** Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Vanessa B. O. Fioravanti, Rafael G. Lima, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti
-- **In:** IEEE Journal of Biomedical and Health Informatics
-- **Download:** [paper](https://ieeexplore.ieee.org/document/10057982)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Learning multiplane images from single views with self-supervision 
-- **Authors:** Gustavo S. P. Carvalho, Diogo C. Luvizon, Antonio Joia, Andre G. C. Pacheco, and Otavio A. B. Penatti
-- **In:** British Machine Vision Conference (BMVC) 2021
-- **Download:** [paper](https://arxiv.org/pdf/2110.09380.pdf) -- [page](https://cyclempi.github.io/) -- [presentation](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0092.html)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations
-- **Authors:** Antonio Joia, Andre Pacheco, and Diogo Luvizon
-- **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
-- **Download:** [paper](https://arxiv.org/pdf/2102.11771) -- [code](https://github.com/a-joia/Gram-Classifier)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> An attention-based mechanism to combine images and metadata in deep learning models applied to skin cancer classification
-- **Authors:** Andre Pacheco and Renato Krohling
-- **In:** IEEE Journal of Biomedical and Health Informatics
-- **Download:** [paper](https://ieeexplore.ieee.org/document/9364366) -- [code](https://github.com/paaatcha/MetaBlock)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Improving Deep Learning Sound Events Classifiers using Gram Matrix Feature-wise Correlations
-- **Authors:** Antonio Joia Neto, Andre G. C. Pacheco, Diogo Carbonera Luvizon
-- **In:** IEEE International Conference on Acoustics, Speech and Signal Processing
-- **Download:** [paper](https://arxiv.org/pdf/2102.11771.pdf) -- code -- presentation
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones
-- **Authors:** Andre Pacheco and Renato Krohling
-- **In:** Computers in Biology and Medicine
-- **Download:** [paper](https://www.sciencedirect.com/science/article/pii/S0010482519304019) -- [data](https://data.mendeley.com/datasets/zr7vgbcyr2/1)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> The impact of patient clinical information on automated skin cancer detection
-- **Authors:** Andre G. C. Pacheco et al.
-- **In:** Data in Brief
-- **Download:** [paper](https://www.sciencedirect.com/science/article/pii/S235234092031115X) -- [data](https://data.mendeley.com/datasets/zr7vgbcyr2/1)
-
-
-###### <i class="fab fa-diaspora"></i> On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers
-- **Best paper award** 🥇
-- **Authors:** Andre Pacheco, Chandramouli Sastry, Thomas Trappenberg, Sageev Oore, and Renato Krohling
-- **In:** IEEE computer society conference on Computer Vision and Pattern Recognition 2020 @ ISIC 2020 workshop
-- **Download:** [paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf) -- [code](https://github.com/paaatcha/gram-ood) -- [presentation](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Learning dynamic weights for an ensemble of deep models applied to medical imaging classification
-- **Authors:** Andre Pacheco, Thomas Trappenberg, and Renato Krohling
-- **In:** IEEE International Joint Conference in Neural Networks, 2020
-- **Download:** [paper](https://ieeexplore.ieee.org/document/9207552)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> An App to Detect Melanoma Using Deep Learning: An Approach to Handle Imbalanced Data Based on Evolutionary Algorithms. 
-- **Authors:** Pedro Castro, Breno Krohling, Andre Pacheco, and Renato Krohling
-- **In:** IEEE International Joint Conference in Neural Networks, 2020
-- **Download:** [paper](https://ieeexplore.ieee.org/document/9206685)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Skin lesion segmentation using deep learning for images acquired from smartphones
-- **Authors:** Gabriel de Angelo, Andre Pacheco, and Renato Krohling
-- **In:** IEEE International Joint Conference in Neural Networks 2019.
-- **Download:** [paper](https://ieeexplore.ieee.org/document/8851803)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Skin cancer detection based on deep learning and entropy to detect outlier samples
-- **Authors:** Andre Pacheco, Alib Abder, and Thomas Trappenberg
-- **In:** MICCAI 2019 @ ISIC Challenge, 2019
-- **Download:** [paper](https://arxiv.org/pdf/1909.04525.pdf) -- [code](https://github.com/paaatcha/jedy)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Recent advances in deep learning applied to skin cancer detection
-- **Authors:** Andre Pacheco and Renato Krohling
-- **In:** NeurIPS 2019 @ Retrospectives workshop
-- **Download:** [paper](https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf) -- [presentation](https://slideslive.com/38923483/metaanalyses)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Aggregation of neural classifiers using Choquet integral with respect to a fuzzy measure
-- **Authors:** Andre Pacheco and Renato Krohling
-- **In:** Neurocomputing, 2020
-- **Download:** [paper](https://www.dropbox.com/s/mib0czng76nofuo/Manuscript.pdf?dl=0)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Ranking of Classification Algorithms in Terms of Mean–Standard Deviation Using A-TOPSIS
-- **Authors:** Andre Pacheco and Renato Krohling
-- **In:** Annals of Data Science, 2016
-- **Download:** [paper](https://arxiv.org/abs/1610.06998)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> An approach to improve online sequential extreme learning machines using a restricted Boltzmann machine
-- **Authors:** Andre Pacheco and Renato Krohling
-- **In:** IEEE International Joint Conference in Neural Networks, 2018
-- **Download:** [paper](https://www.dropbox.com/s/ntpeue5xkblydx6/PID5317513.pdf?dl=0) -- [code](https://github.com/paaatcha/RBM-ELM)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Restricted Boltzmann machine to determine the input weights for extreme learning machines
-- **Authors:** Andre Pacheco, Carlos Silva, and Renato Krohling
-- **In:** Expert Systems with Applications, 2018
-- **Download:** [paper](http://www.sciencedirect.com/science/article/pii/S0957417417308102) -- [code](https://github.com/paaatcha/RBM-ELM)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Ranking of classification algorithms in terms of mean-standard deviation using A-TOPSIS
-- **Authors:**  Andre Pacheco and Renato Krohling 
-- **In:** Annals of data Science, 2018
-- **Download:** [paper](https://arxiv.org/pdf/1610.06998.pdf) 
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> TODIM and TOPSIS with Z-numbers
-- **Authors:**  Renato Krohling, Andre Pacheco, and Guilherme Artém
-- **In:** Frontiers of Information Technology & Electronic Engineering, 2017
-- **Download:** [paper](http://www.jzus.zju.edu.cn/openiptxt.php?doi=10.1631/FITEE.1700434) 
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Agregação de elenco de classificadores utilizando integral de Choquet com respeito a medida λ-fuzzy
-- **Authors:**  Renato Krohling, Andre Pacheco, and Guilherme Artém
-- **In:** Simpósio Brasileiro de Pesquisa Operacional, 2016
-- **Download:** [paper](http://www.sbpo2016.iltc.br/pdf/155849.pdf) 
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Classificação de grandes bases de dados utilizando máquina de Boltzmann restrita discriminativa, 
-- **Authors:**  Renato Krohling, Andre Pacheco, and Guilherme Artém
-- **In:** Simpósio Brasileiro de Pesquisa Operacional, 2016
-- **Download:** [paper](http://www.sbpo2016.iltc.br/pdf/155985.pdf)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> A-TOPSIS – An approach Based on TOPSIS for Ranking Evolutionary Algorithms
-- **Authors:**  Renato Krohling and Andre Pacheco
-- **In:** Procedia Computer Science, 2015
-- **Download:** [paper](https://www.dropbox.com/s/i6sezzydkpkiclj/A-TOPSIS%20-%20An%20approach%20basead%20on%20TOPSIS%20for%20ranking%20evolutionary%20algorithms.pdf?dl=0) -- [code](https://github.com/paaatcha/decision-making)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Time Series Prediction using Restricted Boltzmann Machines and backpropagation
-- **Authors:**  Rafael Hrasko, Andre Pacheco, and Renato Krohling
-- **In:** Procedia Computer Science, 2015
-- **Download:** [paper](https://www.dropbox.com/s/0dhj8dw6g0rdyw1/Time%20Series%20Prediction%20using%20Restricted%20Boltzmann%20Machines%20and.pdf?dl=0)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> Interval-valued Intuitionistic Fuzzy TODIM
-- **Authors:**  Renato Krohling and Andre Pacheco
-- **In:** Procedia Computer Science, 2014
-- **Download:** [paper](https://www.dropbox.com/s/ckxq5r4i6kar9hv/Interval-Valued%20Intuitionistic%20Fuzzy%20TODIM.pdf?dl=0)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> IF-TODIM: An intuitionistic fuzzy TODIM to multi-criteria decision making
-- **Authors:**  Renato Krohling, Andre Pacheco, and Andre Siviero
-- **In:** Knowledge-Based Systems, 2013
-- **Download:** [paper](https://www.dropbox.com/s/6514yjd7py0hiyk/IF-TODIM%20An%20intuitionistic%20fuzzy%20TODIM%20to%20multi-criteria.pdf?dl=0)
-
-___
-
-
-###### <i class="fab fa-diaspora"></i> IFG-TODIM: An intuitionstic fuzzy TODIM for group decision making
-- **Authors:**  Renato Krohling and Andre Pacheco
-- **In:** Simpósio Brasileiro de Pesquisa Operacional, 2013
-- **Download:** [paper](https://www.dropbox.com/s/3ip2o2wtnk3us1q/IFG-TODIM%20AN%20INTUITIONISTIC%20FUZZY%20TODIM%20FOR%20GROUP.pdf?dl=0)
-
-___
-
-## Thesis
-- PhD thesis: [Combining heterogeneous data and deep learning models for skin cancer detection](/assets/files/phd_thesis.pdf)
-- Master thesis (pt-br only): [Agregação de classificadores neurais via integral de Choquet com respeito a uma medida fuzzy](/assets/files/master_thesis.pdf)
-
-___
 
 
 ## Talks and presentations
 
 Here you may find some talks and presentations I carried out throughout the years. Some are in English and others in Portuguese:
 
++ **Sep 2023:** PAD-UFES-20: the challenges and opportunities in creating a skin lesion dataset. [Presentation](https://www.youtube.com/watch?v=q-DBwWZejMY)
 + **Ago 2023:** Out-of-distribution (OOD) detection: uma visão geral sobre o tópico para classificação de imagens
 . [Download](https://docs.google.com/presentation/d/17cQ2pQXM6k8zPT7Ot2-7VMzwtZ2kL6KTOrh4GZiVG2o/edit?usp=drive_link)
 + **Nov 2022:** Como a Inteligência Artificial afeta seu cotidiano. [Download](https://docs.google.com/presentation/d/1a8PLjqPwv-krvLmTS3axBK3piFYsLrONvdhNiRe8Vpw/edit?usp=share_link)

@@ -1,0 +1,155 @@
+# - title:
+#   authors:
+#   link:
+#   place:
+#   code:
+#   page:
+#   presentation:
+
+papers:
+  - title: "Towards low-power heart rate estimation based on user’s demographics and activity level for wearable"
+    authors: "Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti"
+    link: "https://ieeexplore.ieee.org/document/10095339"
+    place: "IEEE International Conference on Acoustics, Speech and Signal Processing"
+
+  - title: "Learning to estimate heart rate from accelerometer and user’s demographics during physical exercises"
+    authors: "Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Vanessa B. O. Fioravanti, Rafael G. Lima, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti"
+    link: "https://ieeexplore.ieee.org/document/10057982"
+    place: "IEEE Journal of Biomedical and Health Informatics"
+    code:
+    presentation:
+
+  - title: "Learning multiplane images from single views with self-supervision"
+    authors: "Gustavo S. P. Carvalho, Diogo C. Luvizon, Antonio Joia, Andre G. C. Pacheco, and Otavio A. B. Penatti"
+    link: "https://arxiv.org/pdf/2110.09380.pdf"
+    place: "British Machine Vision Conference (BMVC) 2021"
+    page: "https://cyclempi.github.io/"
+    presentation: "https://www.bmvc2021-virtualconference.com/conference/papers/paper_0092.html"
+
+  - title: "Improving Deep Learning Sound Events Classifiers Using Gram Matrix Feature-Wise Correlations"
+    authors: "Antonio Joia, Andre G. C. Pacheco, and Diogo Luvizon"
+    link: "https://arxiv.org/pdf/2102.11771"
+    place: "IEEE International Conference on Acoustics, Speech and Signal Processing"
+    code: "https://github.com/a-joia/Gram-Classifier"
+    page:
+    presentation:
+
+  - title: "An attention-based mechanism to combine images and metadata in deep learning models applied to skin cancer classification"
+    authors: "Andre G. C. Pacheco and Renato Krohling"
+    link: "https://ieeexplore.ieee.org/document/9364366"
+    place: "IEEE Journal of Biomedical and Health Informatics"
+    code: "https://github.com/paaatcha/MetaBlock"
+    page:
+    presentation:
+
+  - title: "PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones"
+    authors: "Andre G. C. Pacheco et al."
+    link: "https://www.sciencedirect.com/science/article/pii/S235234092031115X"
+    place: "Data in Brief"
+    code:
+    data: "https://data.mendeley.com/datasets/zr7vgbcyr2/1"
+
+  - title: "The impact of patient clinical information on automated skin cancer detection"
+    authors: "Andre G. C. Pacheco and Renato Krohling"
+    link: "https://www.sciencedirect.com/science/article/pii/S0010482519304019"
+    place: "Computers in Biology and Medicine"
+    code:
+    data: "https://data.mendeley.com/datasets/zr7vgbcyr2/1"
+
+  - title: "On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers"
+    authors: "Andre  G. C. Pacheco, Chandramouli Sastry, Thomas Trappenberg, Sageev Oore, and Renato Krohling"
+    award: "Best paper award 🥇"
+    link: "http://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf"
+    code: "https://github.com/paaatcha/gram-ood"
+    presentation: "https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be"
+    place: "IEEE computer society conference on Computer Vision and Pattern Recognition 2020 @ ISIC 2020 workshop"
+
+  - title: "Learning dynamic weights for an ensemble of deep models applied to medical imaging classification"
+    authors: "Andre  G. C. Pacheco, Thomas Trappenberg, and Renato Krohling"
+    link: "https://ieeexplore.ieee.org/document/9206685"
+    place: "IEEE International Joint Conference in Neural Networks, 2020"
+
+  - title: "An App to Detect Melanoma Using Deep Learning: An Approach to Handle Imbalanced Data Based on Evolutionary Algorithms"
+    authors: "Pedro Castro, Breno Krohling, Andre  G. C. Pacheco, and Renato Krohling"
+    link: "https://ieeexplore.ieee.org/document/9207552"
+    place: "IEEE International Joint Conference in Neural Networks, 2020"
+
+  - title: "Skin lesion segmentation using deep learning for images acquired from smartphones"
+    authors: "Gabriel de Angelo, Andre G. C. Pacheco, and Renato Krohling"
+    link: "https://ieeexplore.ieee.org/document/8851803"
+    place: "IEEE International Joint Conference in Neural Networks 2019"
+
+  - title: "Skin cancer detection based on deep learning and entropy to detect outlier samples"
+    authors: "Andre Pacheco, Alib Abder, and Thomas Trappenberg"
+    link: "https://arxiv.org/pdf/1909.04525.pdf"
+    code: "https://github.com/paaatcha/jedy"
+    place: "MICCAI 2019 @ ISIC Challenge, 2019"
+
+  - title: "Recent advances in deep learning applied to skin cancer detection"
+    authors: "Andre G. C. Pacheco and Renato Krohling"
+    link: "https://ml-retrospectives.github.io/neurips2019/assets/pdfs/Recent_advances_in_deep_learning_applied_to_skin_cancer_detection.pdf"
+    presentation: "https://slideslive.com/38923483/metaanalyses"
+    place: "NeurIPS 2019 @ Retrospectives workshop"
+
+  - title: "Aggregation of neural classifiers using Choquet integral with respect to a fuzzy measure"
+    authors: "Andre G. C. Pacheco and Renato Krohling"
+    link: "https://www.dropbox.com/s/mib0czng76nofuo/Manuscript.pdf?dl=0"
+    place: "Neurocomputing, 2020"
+
+  - title: "Ranking of Classification Algorithms in Terms of Mean-Standard Deviation Using A-TOPSIS"
+    authors: "Andre G. C. Pacheco and Renato Krohling"
+    link: "https://arxiv.org/abs/1610.06998"
+    place: "Annals of Data Science, 2016"
+
+  - title: "An approach to improve online sequential extreme learning machines using a restricted Boltzmann machine"
+    authors: "Andre G. C. Pacheco and Renato Krohling"
+    link: "https://www.dropbox.com/s/ntpeue5xkblydx6/PID5317513.pdf?dl=0"
+    code: "https://github.com/paaatcha/RBM-ELM"
+    place: "IEEE International Joint Conference in Neural Networks, 2018"
+
+  - title: "Restricted Boltzmann machine to determine the input weights for extreme learning machines"
+    authors: "Andre G. C. Pacheco, Carlos Silva, and Renato Krohling"
+    link: "http://www.sciencedirect.com/science/article/pii/S0957417417308102"
+    code: "https://github.com/paaatcha/RBM-ELM"
+    place: "Expert Systems with Applications, 2018"
+
+  - title: "TODIM and TOPSIS with Z-numbers"
+    authors: "Renato Krohling, Andre G. C. Pacheco, and Guilherme Artém"
+    link: "http://www.jzus.zju.edu.cn/openiptxt.php?doi=10.1631/FITEE.1700434"
+    place: "Frontiers of Information Technology & Electronic Engineering, 2017"
+
+  - title: "Agregação de elenco de classificadores utilizando integral de Choquet com respeito a medida λ-fuzzy"
+    authors: "Renato Krohling and Andre G. C. Pacheco"
+    link: "http://www.sbpo2016.iltc.br/pdf/155849.pdf"
+    place: "Simpósio Brasileiro de Pesquisa Operacional, 2016"
+
+  - title: "Classificação de grandes bases de dados utilizando máquina de Boltzmann restrita discriminativa"
+    authors: "Renato Krohling, Andre Pacheco, and Guilherme Artém"
+    link: "http://www.sbpo2016.iltc.br/pdf/155985.pdf"
+    place: "Simpósio Brasileiro de Pesquisa Operacional, 2016"
+
+  - title: "A-TOPSIS - An approach Based on TOPSIS for Ranking Evolutionary Algorithms"
+    authors: "Renato Krohling and Andre Pacheco"
+    link: "https://www.dropbox.com/s/i6sezzydkpkiclj/A-TOPSIS%20-%20An%20approach%20basead%20on%20TOPSIS%20for%20ranking%20evolutionary%20algorithms.pdf?dl=0"
+    code: "https://github.com/paaatcha/decision-making"
+    place: "Procedia Computer Science, 2015"
+
+  - title: "Time Series Prediction using Restricted Boltzmann Machines and backpropagation"
+    authors: "Rafael Hrasko, Andre Pacheco, and Renato Krohling"
+    link: "https://www.dropbox.com/s/0dhj8dw6g0rdyw1/Time%20Series%20Prediction%20using%20Restricted%20Boltzmann%20Machines%20and.pdf?dl=0"
+    place: "Procedia Computer Science, 2015"
+
+  - title: "Interval-valued Intuitionistic Fuzzy TODIM"
+    authors: "Renato Krohling and Andre Pacheco"
+    link: "https://www.dropbox.com/s/ckxq5r4i6kar9hv/Interval-Valued%20Intuitionistic%20Fuzzy%20TODIM.pdf?dl=0"
+    place: "Procedia Computer Science, 2014"
+
+  - title: "IF-TODIM: An intuitionistic fuzzy TODIM to multi-criteria decision making"
+    authors: "Renato Krohling, Andre Pacheco, and Andre Siviero"
+    link: "https://www.dropbox.com/s/6514yjd7py0hiyk/IF-TODIM%20An%20intuitionistic%20fuzzy%20TODIM%20to%20multi-criteria.pdf?dl=0"
+    place: "Knowledge-Based Systems, 2013"
+
+  - title: "IFG-TODIM: An intuitionistic fuzzy TODIM for group decision making"
+    authors: "Renato Krohling and Andre Pacheco"
+    link: "https://www.dropbox.com/s/3ip2o2wtnk3us1q/IFG-TODIM%20AN%20INTUITIONISTIC%20FUZZY%20TODIM%20FOR%20GROUP.pdf?dl=0"
+    place: "Simpósio Brasileiro de Pesquisa Operacional, 2013"

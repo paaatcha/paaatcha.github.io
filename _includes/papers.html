@@ -1,0 +1,39 @@
+{%- for paper in site.data.papers.papers -%}
+<div class="paper-container">
+  <div class="student-info">
+    <ul>
+      <li>
+        <a href="{{%paper.link%}}" target="_blank"> {{%paper.title%}} </a>
+      </li>
+
+      <li><b> Authors: </b> {{%paper.authors%}}</li>
+
+      <li><b> In: </b> {{%paper.place%}}</li>
+
+      {% if paper.code %}
+      <li>
+        <b> Code: </b>
+        <a href="{{%paper.code%}}" target="_blank"> {{%paper.code%}} </a>
+      </li>
+      {% endif %} {% if paper.page %}
+      <li>
+        <b> Page: </b>
+        <a href="{{%paper.page%}}" target="_blank"> {{%paper.page%}} </a>
+      </li>
+      {% endif %} {% if paper.presentation %}
+      <li>
+        <b> Presentation: </b>
+        <a href="{{%paper.presentation%}}" target="_blank"> Link </a>
+      </li>
+      {% endif %} {% if paper.data %}
+      <li>
+        <b> Data: </b>
+        <a href="{{%paper.data%}}" target="_blank"> Link </a>
+      </li>
+      {% endif %} {% if paper.award %}
+      <li><b> Award: </b> {{%paper.award%}}</li>
+      {% endif %}
+    </ul>
+  </div>
+</div>
+{% endfor %}

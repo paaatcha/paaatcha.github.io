@@ -24,7 +24,7 @@ ___
 #### Some Good News 📰
 {: .index_color}
 
-
++ <span class="news"> <span class="index_color"> **Sep 2023**: </span> I gave a talk on the Datasets through the L👀king-Glass [webinar](https://purrlab.github.io/webinar/) about the PAD-UFES-20 Dataset. The talk is available [here](https://www.youtube.com/watch?v=q-DBwWZejMY)</span>
 + <span class="news"> <span class="index_color"> **Jul 2023**: </span> The [patent](https://patents.google.com/patent/US20230190120A1/en) related to heart rate detection using Galaxy Watch 4 and 5 has been made public  </span>
 + <span class="news"> <span class="index_color"> **Jun 2023**: </span> Another [paper](https://ieeexplore.ieee.org/document/10095339), developed along with my Samsung colleagues, has been accepted in the ICASSP 2023 </span>
 + <span class="news"> <span class="index_color"> **Feb 2023**: </span> My [new paper](https://ieeexplore.ieee.org/document/10057982), developed along with my Samsung colleagues, has been accepted in the IEEE Journal of Biomedical and Health Informatics </span>
