@@ -1,0 +1,23 @@
+{%- for student in site.data.students.current -%}
+<div class="student-container student-on">
+  {% if student.photo %}
+  <img src="/assets/imgs/students/{{%student.photo%}}" class="student-img" />
+  {% else %}
+  <img src="/assets/imgs/students/non-profile.png" class="student-img" />
+  {% endif %}
+
+  <div class="student-info">
+    <ul>
+      <li>
+        <a href="{{%student.site%}}" target="_blank"> {{%student.name%}} </a>
+      </li>
+
+      <li><b> Level: </b> {{%student.level%}}</li>
+
+      <li><b> Degree: </b> {{%student.course%}}</li>
+
+      <li><b> Topics: </b> {{%student.topics%}}</li>
+    </ul>
+  </div>
+</div>
+{% endfor %}

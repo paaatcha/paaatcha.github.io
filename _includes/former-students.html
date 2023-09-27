@@ -1,0 +1,37 @@
+{%- for student in site.data.students.former -%}
+<div class="student-container">
+  {% if student.photo %}
+  <img src="/assets/imgs/students/{{%student.photo%}}" class="student-img" />
+  {% else %}
+  <img src="/assets/imgs/students/non-profile.png" class="student-img" />
+  {% endif %}
+
+  <div class="student-info">
+    <ul>
+      <li>
+        <a href="{{%student.site%}}" target="_blank"> {{%student.name%}} </a>
+      </li>
+
+      <li><b> Degree: </b> {{%student.course%}}</li>
+
+      {% if student.result %}
+      <li>
+        <b> Result: </b>
+        <a href="{{%student.link%}}" target="_blank"> {{%student.result%}} </a>
+      </li>
+
+      {% endif %} {% if student.code %}
+      <li>
+        <b> Code: </b>
+        <a href="{{%student.code%}}" target="_blank"> Github </a>
+      </li>
+      {% endif %} {% if student.supervisors %}
+      
+      <li>
+        <b> Supervisors: </b> {{%student.supervisors%}}
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</div>
+{% endfor %}
