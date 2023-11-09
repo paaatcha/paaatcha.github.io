@@ -1,4 +1,11 @@
 current:
+  - name: "Gabriel Giorisatto de Angelo"
+    photo: "gabobo.jpeg"
+    site: "https://br.linkedin.com/in/gabrielgangelo"
+    topics: "Machine Learning | LLMs| Skin Cancer Classification"
+    course: "Master in Informatics"
+    level: "Graduate"
+
   - name: "Afonso Salvador"
     photo: "afonso_salvador.jpeg"
     site: "https://www.linkedin.com/in/afonso-salvador-67869b23a/"

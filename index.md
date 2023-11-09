@@ -15,6 +15,8 @@ Welcome to my personal webpage. Here, you'll find information about my professio
 
 If you're interested in learning more about my career and work experience, please refer to [Profile](profile). To find out more about my research topics and groups I'm affiliated with, as well as my [list of publications](/research/#list-of-publications), check out my [Research](research) page. If you'd like to see my awards, honors, and prizes, head to the [Awards section](awards). In the teaching section, you'll find my teaching materials and information on how to book a conversation with me.
 
+If you're interested in the projects I'm leading or collaborating with, please check the [PAD-UFES website](http://pad.ufes.br/padtech/) and [my lab's website](http://life.ufes.br).
+
 If you're looking for opportunities to work with me or want to have look at my current and former students, please check the [Students](students) page.
 
 Lastly, in the [blog](blog) area, I share my thoughts, tutorials for my students, and other related content. Most of the posts are written in Portuguese because my primary audience is Brazilian.
@@ -24,6 +26,7 @@ ___
 #### Some Good News 📰
 {: .index_color}
 
++ <span class="news"> <span class="index_color"> **Oct 2023**: </span> Our work is one of the finalist in the [Webmedia LF Prize](https://webmedia.org.br/2023/cfp-premio-lf/). Check the paper describing the [SADE system](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686). </span>
 + <span class="news"> <span class="index_color"> **Sep 2023**: </span> I gave a talk on the Datasets through the L👀king-Glass [webinar](https://purrlab.github.io/webinar/) about the PAD-UFES-20 Dataset. The talk is available [here](https://www.youtube.com/watch?v=q-DBwWZejMY)</span>
 + <span class="news"> <span class="index_color"> **Jul 2023**: </span> The [patent](https://patents.google.com/patent/US20230190120A1/en) related to heart rate detection using Galaxy Watch 4 and 5 has been made public  </span>
 + <span class="news"> <span class="index_color"> **Jun 2023**: </span> Another [paper](https://ieeexplore.ieee.org/document/10095339), developed along with my Samsung colleagues, has been accepted in the ICASSP 2023 </span>
