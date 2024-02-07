@@ -27,19 +27,6 @@ current:
     course: "Computer Engineering"
     level: "Undergraduate"
 
-  - name: "Clayton Oliveira Vicente"
-    photo: "clayton_vicente.jpeg"
-    site: "#"
-    topics: "Data collection | Dermatology"
-    course: "Medicine"
-    level: "Undergraduate"
-
-  - name: "Matheus Luciano Sesana Goldner"
-    site: "https://github.com/MatheusLSG"
-    topics: "Fullstack development | Data Collection"
-    course: "Computer Science"
-    level: "Undergraduate"
-
   - name: "Guilherme Caldana"
     photo: "guilherme_caldana.jpeg"
     site: "https://github.com/caldgui"
@@ -54,25 +41,34 @@ current:
     course: "Electrical Engineering"
     level: "Undergraduate"
 
-  - name: "Gabryel Batista"
-    photo: "gabryel_batista.jpeg"
-    site: "https://github.com/gabryelfbatista"
-    topics: "Fullstack development | Data Collection"
-    course: "Electrical Engineering"
-    level: "Undergraduate"
-
-  - name: "Gabriel Pietroluongo"
-    photo: "gabriel_pietroluongo.jpeg"
-    site: "https://github.com/pietroluongo"
-    topics: "Robotics and Automation | Reinforciment Learning | Duckietown"
-    course: "Computer Engineering"
-    level: "Undergraduate"
-
 #######################################################################################
 # FORMER STUDENTS
 #######################################################################################
 
 former:
+  - name: "Clayton Oliveira Vicente"
+    photo: "clayton_vicente.jpeg"
+    site: "#"
+    result: "Development of the SADE platform"
+    link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
+
+  - name: "Matheus Luciano Sesana Goldner"
+    site: "https://github.com/MatheusLSG"
+    result: "Development of the SADE platform"
+    link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
+
+  - name: "Gabryel Batista"
+    photo: "gabryel_batista.jpeg"
+    site: "https://github.com/gabryelfbatista"
+    result: "Development of the SADE platform"
+    link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
+
+  - name: "Gabriel Pietroluongo"
+    photo: "gabriel_pietroluongo.jpeg"
+    site: "https://github.com/pietroluongo"
+    result: "Aplicação de técnicas de aprendizado por reforço em um simulador de veículo autônomo"
+    link: "https://drive.google.com/file/d/1lfBBzSYwFekivOSEQ3QRTee27_w4HJtQ/view?usp=sharing"
+
   - name: "Elias Pereira Júnior"
     photo: "elias_junior.jpeg"
     site: "https://github.com/EPGJ"
