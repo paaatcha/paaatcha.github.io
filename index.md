@@ -26,6 +26,7 @@ ___
 #### Some Good News 📰
 {: .index_color}
 
++ <span class="news"> <span class="index_color"> **Jan 2024**: </span> I got two new funds from ICEPi and CNPq to keep the development of CAD systems for skin lesion diagnosis. </span>
 + <span class="news"> <span class="index_color"> **Oct 2023**: </span> Our work is one of the finalist in the [Webmedia LF Prize](https://webmedia.org.br/2023/cfp-premio-lf/). Check the paper describing the [SADE system](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686). </span>
 + <span class="news"> <span class="index_color"> **Sep 2023**: </span> I gave a talk on the Datasets through the L👀king-Glass [webinar](https://purrlab.github.io/webinar/) about the PAD-UFES-20 Dataset. The talk is available [here](https://www.youtube.com/watch?v=q-DBwWZejMY)</span>
 + <span class="news"> <span class="index_color"> **Jul 2023**: </span> The [patent](https://patents.google.com/patent/US20230190120A1/en) related to heart rate detection using Galaxy Watch 4 and 5 has been made public  </span>
