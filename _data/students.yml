@@ -23,7 +23,7 @@ current:
   - name: "Eduarda Pyrlo Magesk"
     photo: "eduarda_magesky.png"
     site: "https://www.linkedin.com/in/eduarda-magesky-9b1b3a1b0/"
-    topics: "Fullstack development | Data Collection"
+    topics: "Fullstack development | Data Collection | Skin Cancer Classification"
     course: "Computer Engineering"
     level: "Undergraduate"
 
@@ -39,6 +39,29 @@ current:
     site: "https://github.com/gabrielschettino"
     topics: "Fullstack development | Data Collection"
     course: "Electrical Engineering"
+    level: "Undergraduate"
+
+  - name: "Rafael Santiago Altoé"
+    site: "https://github.com/rsadr0pyz"
+    topics: "Fullstack development | Data Collection | Skin Cancer Classification"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco"
+    level: "Undergraduate"
+
+  - name: "Lorenzo Scaramussa"
+    site: "https://br.linkedin.com/in/lorenzo-scaramussa-25428016a"
+    photo: "lorenzo.jpeg"
+    topics: "Medical Image Segmentation"
+    course: "Computer Science"
+    supervisors: "Andre Pacheco e Luis Souza"
+    level: "Undergraduate"
+
+  - name: "João Ubaldo Xavier"
+    photo: "joao.jpeg"
+    site: "https://br.linkedin.com/in/joao-xreis"
+    topics: "Mobile devlopment | Smartwatches | Data Collection"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco"
     level: "Undergraduate"
 
 #######################################################################################
