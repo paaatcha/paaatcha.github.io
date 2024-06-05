@@ -26,6 +26,7 @@ My current research interests span the fields of Machine Learning/Artificial Int
 
 I've worked in the following research groups:
 
+- *2023 - now*: [Artificial Intelligence in Health Laboratory (LIFE)](http://www.life.inf.ufes.br/), Federal University of Espírito Santo Vitória, Brasil
 - *2022 - now*: [High Performance Computing Laboratory (LCAD)](http://www.lcad.inf.ufes.br/), Federal University of Espírito Santo Vitória, Brasil
 - *2022 - now*:  [Institute of Applied Computacional Intelligence – I²CA](http://i2ca.ai/), Federal University of Espírito Santo Vitória, Brasil
 - *2020 - 2022*: AI R&D Lab - [Samsung Research Institute Brazil (SRBR)](https://research.samsung.com/srbr) Campinas, Brazil
@@ -35,6 +36,7 @@ I've worked in the following research groups:
 
 
 ## Conference and Journal Reviewing
+- 2024: Computers in Biology and Medicine, Artificial Intelligence in Medicine
 - 2023: Artificial Intelligence in Medicine, Biomedical Signal Processing and Control, IEEE Journal of Biomedical and Health Informatics, and MethodsX
 - 2022: IEEE Journal of Biomedical and Health Informatics
 - 2021: IEEE Journal of Biomedical and Health Informatics, Medical Image Analysis, ISIC @ CVPR (program committee)
