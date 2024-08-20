@@ -12,6 +12,11 @@ Here you can find the disciplines I taught or acted as a teaching assistant. It'
 
 ___
 
+###### 2024/1
++ [Programação II](/teaching/prog-II/)
++ [Inteligência Computacional em Saúde](/teaching/comp-intel-saude/)
+
+
 ###### 2023/2
 + [Programação II](/teaching/prog-II/)
 + [Programação para dispositivos móveis](/teaching/prog-mobile/)
