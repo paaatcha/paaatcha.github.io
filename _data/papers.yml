@@ -7,6 +7,16 @@
 #   presentation:
 
 papers:
+  - title: "LiwTERM: A Lightweight Transformer-based Model for Dermatological Multimodal Lesion Detection"
+    authors: "Luis A. de Souza Jr., André GC Pacheco, Gabriel G. de Angelo, Thiago Oliveira-Santos, Christoph Palm & João P. Papa"
+    link: "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2024/08.28.21.03/doc/souza-19_clean.pdf"
+    place: "SIBGRAPI 2024"
+
+  - title: "DeepCraftFuse: visual and deeply-learnable features work better together for esophageal cancer detection in patients with Barrett’s esophagus"
+    authors: "Luis A Souza Jr, André GC Pacheco, Leandro A Passos, Marcos CS Santana, Robert Mendel, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Christoph Palm, João Paulo Papa"
+    link: "https://link.springer.com/article/10.1007/s00521-024-09615-z"
+    place: "Neural Computing and Applications"
+
   - title: "DeepCraftFuse: visual and deeply-learnable features work better together for esophageal cancer detection in patients with Barrett’s esophagus"
     authors: "Luis A Souza Jr, André GC Pacheco, Leandro A Passos, Marcos CS Santana, Robert Mendel, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Christoph Palm, João Paulo Papa"
     link: "https://link.springer.com/article/10.1007/s00521-024-09615-z"

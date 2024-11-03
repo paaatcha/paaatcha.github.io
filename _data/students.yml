@@ -6,17 +6,16 @@ current:
     course: "Master in Informatics"
     level: "Graduate"
 
+  - name: "Higor David Oliveira"
+    site: "#"
+    topics: "Wearables | Tiny ML"
+    course: "Master in Informatics"
+    level: "Graduate"
+
   - name: "Afonso Salvador"
     photo: "afonso_salvador.jpeg"
     site: "https://www.linkedin.com/in/afonso-salvador-67869b23a/"
-    topics: "Machine Learning | Computer Vision | Data Fusion | Skin Cancer Classification"
-    course: "Computer Engineering"
-    level: "Undergraduate"
-
-  - name: "Arthur Trarbach Sampaio"
-    photo: "arthur_trarbach.jpeg"
-    site: "https://github.com/TrarbachArthur"
-    topics: "Machine Learning | Computer Vision | Data Fusion | Skin Cancer Classification"
+    topics: "Fullstack development | Data Analysis"
     course: "Computer Engineering"
     level: "Undergraduate"
 
@@ -37,7 +36,7 @@ current:
   - name: "Gabriel Schettino"
     photo: "gabriel_schettino.png"
     site: "https://github.com/gabrielschettino"
-    topics: "Fullstack development | Data Collection"
+    topics: "Fullstack development | Data Analysis"
     course: "Electrical Engineering"
     level: "Undergraduate"
 
@@ -56,11 +55,11 @@ current:
     supervisors: "Andre Pacheco e Luis Souza"
     level: "Undergraduate"
 
-  - name: "João Ubaldo Xavier"
-    photo: "joao.jpeg"
-    site: "https://br.linkedin.com/in/joao-xreis"
-    topics: "Mobile devlopment | Smartwatches | Data Collection"
-    course: "Computer Engineering"
+  - name: "Vinicius Moraes de Jesus"
+    site: "https://br.linkedin.com/in/viniciusmdj"
+    photo: "vinicius.jpeg"
+    topics: "Wearable devices | Mobile Development"
+    course: "Computer Science"
     supervisors: "Andre Pacheco"
     level: "Undergraduate"
 
@@ -72,27 +71,23 @@ current:
     supervisors: "Andre Pacheco and Patricia Lyra"
     level: "Undergraduate"
 
-  - name: "Juliana Duarte Geller"
-    photo: "juliana.jpg"
-    site: "http://lattes.cnpq.br/6733249836692802"
-    topics: "Clinical investigation | Data Collection"
-    course: "Medicine"
-    supervisors: "Andre Pacheco and Patricia Lyra"
-    level: "Undergraduate"
-
-  - name: "Amanda Lima Mutz"
-    photo: "amanda.jpg"
-    site: "http://lattes.cnpq.br/1807546585281240"
-    topics: "Clinical investigation | Data Collection"
-    course: "Medicine"
-    supervisors: "Andre Pacheco and Patricia Lyra"
-    level: "Undergraduate"
-
 #######################################################################################
 # FORMER STUDENTS
 #######################################################################################
 
 former:
+  - name: "Juliana Duarte Geller"
+    photo: "juliana.jpg"
+    site: "http://lattes.cnpq.br/6733249836692802"
+    course: "Medicine"
+    result: "Clinical investigation | Data Collection"
+
+  - name: "Amanda Lima Mutz"
+    photo: "amanda.jpg"
+    site: "http://lattes.cnpq.br/1807546585281240"
+    course: "Medicine"
+    result: "Clinical investigation | Data Collection"
+
   - name: "Clayton Oliveira Vicente"
     photo: "clayton_vicente.jpeg"
     site: "#"
