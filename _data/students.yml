@@ -1,5 +1,4 @@
 current:
-
   - name: "Pedro Henrique Galdino Bouzon"
     site: "http://lattes.cnpq.br/0268217319630732"
     topics: "Multimodal Learning | Medical Datasets"
@@ -19,6 +18,7 @@ current:
     topics: "Wearables | Tiny ML"
     course: "Master in Informatics"
     level: "Graduate"
+    supervisors: "Andre Pacheco e Rodolfo Villaça"
 
   - name: "Afonso Salvador"
     photo: "afonso_salvador.jpeg"
@@ -86,9 +86,6 @@ current:
     course: "Medicine"
     supervisors: "Andre Pacheco and Renata Careta"
     level: "Undergraduate"
-
-
-
 
 #######################################################################################
 # FORMER STUDENTS
