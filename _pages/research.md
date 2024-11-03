@@ -15,6 +15,7 @@ My current research interests span the fields of Machine Learning/Artificial Int
 + Machine learning
 + Deep Learning
 + Medical imaging
++ Medical Datasets
 + ML for Health and wellbeing
 + Data Science
 + Decision making
