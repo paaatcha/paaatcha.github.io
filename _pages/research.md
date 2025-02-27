@@ -15,6 +15,7 @@ My current research interests span the fields of Machine Learning/Artificial Int
 + Machine learning
 + Deep Learning
 + Medical imaging
++ Medical Datasets
 + ML for Health and wellbeing
 + Data Science
 + Decision making
@@ -27,7 +28,6 @@ My current research interests span the fields of Machine Learning/Artificial Int
 I've worked in the following research groups:
 
 - *2023 - now*: [Artificial Intelligence in Health Laboratory (LIFE)](http://www.life.inf.ufes.br/), Federal University of Espírito Santo Vitória, Brasil
-- *2022 - now*: [High Performance Computing Laboratory (LCAD)](http://www.lcad.inf.ufes.br/), Federal University of Espírito Santo Vitória, Brasil
 - *2022 - now*:  [Institute of Applied Computacional Intelligence – I²CA](http://i2ca.ai/), Federal University of Espírito Santo Vitória, Brasil
 - *2020 - 2022*: AI R&D Lab - [Samsung Research Institute Brazil (SRBR)](https://research.samsung.com/srbr) Campinas, Brazil
 - *2019 - 2020*: [Hierarchical Anticipatory Learning Lab. (HALLab)](https://hallab.cs.dal.ca/Main_Page), Dalhousie University Halifax, Canada

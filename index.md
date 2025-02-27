@@ -28,6 +28,7 @@ ___
 
 + <span class="news"> <span class="index_color"> **Feb 2025**: </span> Padtech is one of the three projects selected as a finalist for the [Conexão Inova Awards](https://www.conexaoinovacaopublica.org/). 🎉</span>
 + <span class="news"> <span class="index_color"> **Sep 2024**: </span> Padtech is one of the five projects selected as a finalist for the [Inoves Award](https://inoves.es.gov.br/). 🎉</span>
++ <span class="news"> <span class="index_color"> **Aug 2024**: </span> We got two new fundings from FAPES (~160k/2y) to keep the Padtech working and start the AMAMENTA project 🎉</span>
 + <span class="news"> <span class="index_color"> **Jun 2024**: </span> I was in Brasilia to present our project to the Brazilian Ministry of Health, which is funding it. [Check the news here](https://life.inf.ufes.br/blog/seminario-marco-zero/).</span>
 + <span class="news"> <span class="index_color"> **Mar 2024**: </span> We got a paper accepted in the Neural Computing and Applications journal. Check it [here](https://link.springer.com/article/10.1007/s00521-024-09615-z).</span>
 + <span class="news"> <span class="index_color"> **Jan 2024**: </span> I got two new funds from ICEPi (~80k/1y) and CNPq (~1.5M/3y) to keep the development of CAD systems for skin lesion diagnosis 🎉 </span>
@@ -37,7 +38,6 @@ ___
 + <span class="news"> <span class="index_color"> **Jun 2023**: </span> Another [paper](https://ieeexplore.ieee.org/document/10095339), developed along with my Samsung colleagues, has been accepted in the ICASSP 2023 </span>
 + <span class="news"> <span class="index_color"> **Feb 2023**: </span> My [new paper](https://ieeexplore.ieee.org/document/10057982), developed along with my Samsung colleagues, has been accepted in the IEEE Journal of Biomedical and Health Informatics </span>
 + <span class="news"> <span class="index_color"> **Nov 2022:** </span> I, along with [Prof. Thiago Oliveira](http://www.inf.ufes.br/~todsantos/home-2) and [Prof. Filipe Mutz](http://www.fmtz.com.br/about/), got funding from [FAPES](https://fapes.es.gov.br/) to build a health research lab at [UFES](https://ufes.br/)</span>
-+ <span class="news"> <span class="index_color"> **Sep 2022:** </span> I joined [LCAD](http://www.lcad.inf.ufes.br/) and [I2CA](http://i2ca.ai/) as an associated researcher </span>
 + <span class="news"> <span class="index_color"> **Sep 2022:** </span> We got a new funding from [FAPES](https://fapes.es.gov.br/) for [PAD-UFES project](/projects/skin_cancer_diagnosis/)</span>
 + <span class="news"> <span class="index_color"> **Jul 2022:** </span> The [ICEPi](https://icepi.es.gov.br/) incubator is going to finance our [PAD-UFES project](/projects/skin_cancer_diagnosis/)  </span>
 + <span class="news"> <span class="index_color"> **Jun 2022:** </span> I joined UFES as an Assistant Professor at the Department of Informatics </span>

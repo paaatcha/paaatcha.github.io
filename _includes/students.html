@@ -17,6 +17,10 @@
       <li><b> Degree: </b> {{%student.course%}}</li>
 
       <li><b> Topics: </b> {{%student.topics%}}</li>
+
+      {% if student.supervisors %}
+      <li><b> Supervisors: </b> {{%student.supervisors%}}</li>
+      {% endif %}
     </ul>
   </div>
 </div>
