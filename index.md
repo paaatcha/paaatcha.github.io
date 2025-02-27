@@ -26,7 +26,8 @@ ___
 #### Some Good News 📰
 {: .index_color}
 
-+ <span class="news"> <span class="index_color"> **Aug 2024**: </span> I got a new funding from FAPES (~80k/2y) to keep the Padtech working 🎉</span>
++ <span class="news"> <span class="index_color"> **Feb 2025**: </span> Padtech is one of the three projects selected as a finalist for the [Conexão Inova Awards](https://www.conexaoinovacaopublica.org/). 🎉</span>
++ <span class="news"> <span class="index_color"> **Sep 2024**: </span> Padtech is one of the five projects selected as a finalist for the [Inoves Award](https://inoves.es.gov.br/). 🎉</span>
 + <span class="news"> <span class="index_color"> **Jun 2024**: </span> I was in Brasilia to present our project to the Brazilian Ministry of Health, which is funding it. [Check the news here](https://life.inf.ufes.br/blog/seminario-marco-zero/).</span>
 + <span class="news"> <span class="index_color"> **Mar 2024**: </span> We got a paper accepted in the Neural Computing and Applications journal. Check it [here](https://link.springer.com/article/10.1007/s00521-024-09615-z).</span>
 + <span class="news"> <span class="index_color"> **Jan 2024**: </span> I got two new funds from ICEPi (~80k/1y) and CNPq (~1.5M/3y) to keep the development of CAD systems for skin lesion diagnosis 🎉 </span>
