@@ -9,6 +9,12 @@ excerpt: "In this page you can check my **awards, honors and prizes**. The full 
 
 In this page you can check my **awards, honors and prizes**. The full list in presented below.
 
+
++ **Apr 2025:** [2024 Highly Ranked Scholar - Prior 5 Years in the Skin Cancer field](https://scholargps.com/highly-ranked-scholars?ranking_duration=LAST_5_YEARS&specialty=Skin+cancer&p=1#1) by [ScholarGPS](https://scholargps.com/scholars/27245427188463/andre-g-c-pacheco?e_ref=91df6de506ce0df43542)
++ **Jan 2025:** Funding from [ICEPi](https://icepi.es.gov.br/) (~80k BRL)
++ **Apr 2024:** Funding from [CNPq](https://www.gov.br/cnpq/pt-br) (~1.5M BRL)
++ **Jan 2024:** Funding from [ICEPi](https://icepi.es.gov.br/) (~80k BRL)
++ **Nov 2023:** Funding from [FAPES](https://fapes.es.gov.br/) (~80k BRL)
 + **Nov 2022:** Funding from [FAPES](https://fapes.es.gov.br/) (~250k BRL)
 + **Sep 2022:** Funding from [FAPES](https://fapes.es.gov.br/) (~50k BRL)
 + **Jul 2022:** Funding from [ICEPi](https://icepi.es.gov.br/) (~80k BRL)
