@@ -6,13 +6,6 @@ current:
     course: "Master in Informatics"
     level: "Graduate"
 
-  - name: "Gabriel Giorisatto de Angelo"
-    photo: "gabobo.jpeg"
-    site: "https://br.linkedin.com/in/gabrielgangelo"
-    topics: "Machine Learning | LLMs| Skin Cancer Classification"
-    course: "Master in Informatics"
-    level: "Graduate"
-
   - name: "Higor David Oliveira"
     photo: "higor.gif"
     site: "http://lattes.cnpq.br/2607139938549822"
@@ -21,25 +14,11 @@ current:
     level: "Graduate"
     supervisors: "Andre Pacheco e Rodolfo Villaça"
 
-  - name: "Afonso Salvador"
-    photo: "afonso_salvador.jpeg"
-    site: "https://www.linkedin.com/in/afonso-salvador-67869b23a/"
-    topics: "Fullstack development | Data Analysis"
-    course: "Computer Engineering"
-    level: "Undergraduate"
-
   - name: "Eduarda Pyrlo Magesk"
     photo: "eduarda_magesky.png"
     site: "https://www.linkedin.com/in/eduarda-magesky-9b1b3a1b0/"
     topics: "Fullstack development | Data Collection | Skin Cancer Classification"
     course: "Computer Engineering"
-    level: "Undergraduate"
-
-  - name: "Guilherme Caldana"
-    photo: "guilherme_caldana.jpeg"
-    site: "https://github.com/caldgui"
-    topics: "Fullstack development | Data Collection"
-    course: "Electrical Engineering"
     level: "Undergraduate"
 
   - name: "Gabriel Schettino"
@@ -54,14 +33,6 @@ current:
     topics: "Fullstack development | Data Collection | Skin Cancer Classification"
     course: "Computer Engineering"
     supervisors: "Andre Pacheco"
-    level: "Undergraduate"
-
-  - name: "Lorenzo Scaramussa"
-    site: "https://br.linkedin.com/in/lorenzo-scaramussa-25428016a"
-    photo: "lorenzo.jpeg"
-    topics: "Medical Image Segmentation"
-    course: "Computer Science"
-    supervisors: "Andre Pacheco e Luis Souza"
     level: "Undergraduate"
 
   - name: "Vinicius Moraes de Jesus"
@@ -88,11 +59,52 @@ current:
     supervisors: "Andre Pacheco and Renata Careta"
     level: "Undergraduate"
 
+  - name: "Gustavo de Andrade Perini"
+    photo: "gustavo.jpeg"
+    site: "https://github.com/GustavooPerini"
+    topics: "Software Development | Amamenta UFES"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco, Luis Souza e Cândida Primo"
+    level: "Undergraduate"
+
+  - name: "Pedro Alexandre S. Lorenzutti"
+    photo: "palex.jpeg"
+    site: "https://github.com/PAlorenzutti"
+    topics: "Software Development| Padtech"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco e Luis Souza"
+    level: "Undergraduate"
+
 #######################################################################################
 # FORMER STUDENTS
 #######################################################################################
 
 former:
+  - name: "Lorenzo Scaramussa"
+    site: "https://br.linkedin.com/in/lorenzo-scaramussa-25428016a"
+    photo: "lorenzo.jpeg"
+    course: "Computer Science"
+    supervisors: "Andre Pacheco"
+    resultado: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
+    link: "https://www.sbcas2025.com/"
+
+  - name: "Afonso Salvador"
+    photo: "afonso_salvador.jpeg"
+    site: "https://www.linkedin.com/in/afonso-salvador-67869b23a/"
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco e Luis Souza"
+    resultado: "valuating Deep Neural Skin Cancer Classifiers With Multiple Images Inputs"
+    link: "https://www.sbcas2025.com/"
+
+  - name: "Guilherme Caldana"
+    photo: "guilherme_caldana.jpeg"
+    site: "https://github.com/caldgui"
+    course: "Engenharia Elétrica"
+    supervisors: "Andre Pacheco"
+    resultado: "Development of the SADE platform"
+    link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
+
+
   - name: "Juliana Duarte Geller"
     photo: "juliana.jpg"
     site: "http://lattes.cnpq.br/6733249836692802"
