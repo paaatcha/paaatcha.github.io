@@ -85,7 +85,7 @@ former:
     photo: "lorenzo.jpeg"
     course: "Computer Science"
     supervisors: "Andre Pacheco"
-    resultado: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
+    result: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
     link: "https://www.sbcas2025.com/"
 
   - name: "Afonso Salvador"
@@ -93,7 +93,7 @@ former:
     site: "https://www.linkedin.com/in/afonso-salvador-67869b23a/"
     course: "Engenharia de Computação"
     supervisors: "Andre Pacheco e Luis Souza"
-    resultado: "valuating Deep Neural Skin Cancer Classifiers With Multiple Images Inputs"
+    result: "valuating Deep Neural Skin Cancer Classifiers With Multiple Images Inputs"
     link: "https://www.sbcas2025.com/"
 
   - name: "Guilherme Caldana"
@@ -101,7 +101,7 @@ former:
     site: "https://github.com/caldgui"
     course: "Engenharia Elétrica"
     supervisors: "Andre Pacheco"
-    resultado: "Development of the SADE platform"
+    result: "Development of the SADE platform"
     link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
 
 
