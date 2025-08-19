@@ -30,7 +30,7 @@ current:
 
   - name: "Rafael Santiago Altoé"
     site: "https://github.com/rsadr0pyz"
-    topics: "Fullstack development | Data Collection | Skin Cancer Classification"
+    topics: "Tiny ML | Embedded Systems | Skin Cancer Classification"
     course: "Computer Engineering"
     supervisors: "Andre Pacheco"
     level: "Undergraduate"
@@ -75,6 +75,39 @@ current:
     supervisors: "Andre Pacheco e Luis Souza"
     level: "Undergraduate"
 
+  - name: "Pedro Henrique Muniz Carvalho"
+    photo: "pmuniz.jpeg"
+    site: "https://github.com/phmuniz"
+    topics: "Skin cancer classification| OOD detection"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco e Luis Souza"
+    level: "Undergraduate"
+
+  - name: "Eduarda Tonini Ferri"
+    photo: "etonini.jpeg"
+    site: "https://github.com/dudatonini"
+    topics: "Skin cancer classification| OOD detection"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco e Luis Souza"
+    level: "Undergraduate"
+
+  - name: "Elisa Müller"
+    photo: "elisa.jpeg"
+    site: "https://github.com/BeWSM"
+    topics: "Object Detection | Tiny ML | Embedded Systems"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco, Luis Souza e Rodolfo Villaça"
+    level: "Undergraduate"
+
+  - name: "Eduardo Stein Saleme"
+    photo: "eduardo.jpeg"
+    site: "https://github.com/eduardossaleme"
+    topics: "Object Detection | Tiny ML | Embedded Systems"
+    course: "Computer Engineering"
+    supervisors: "Andre Pacheco, Luis Souza e Rodolfo Villaça"
+    level: "Undergraduate"
+
+
 #######################################################################################
 # FORMER STUDENTS
 #######################################################################################
@@ -87,6 +120,13 @@ former:
     supervisors: "Andre Pacheco"
     result: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
     link: "https://www.sbcas2025.com/"
+
+  - name: "Renan Souza Vieira"
+    photo: "renan.gif"
+    site: "http://lattes.cnpq.br/3113715246348154"    
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    resultado: "Clinical investigation | Data Collection"
 
   - name: "Afonso Salvador"
     photo: "afonso_salvador.jpeg"
@@ -103,7 +143,6 @@ former:
     supervisors: "Andre Pacheco"
     result: "Development of the SADE platform"
     link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
-
 
   - name: "Juliana Duarte Geller"
     photo: "juliana.jpg"
