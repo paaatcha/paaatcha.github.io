@@ -26,6 +26,7 @@ ___
 #### Some Good News 📰
 {: .index_color}
 
++ <span class="news"> <span class="index_color"> **Nov 2025**: </span> [Our paper](https://sol.sbc.org.br/index.php/webmedia/article/view/37961) received the Best Paper Award in the LF category at the WebMedi 2025 conference 🎉</span>
 + <span class="news"> <span class="index_color"> **Aug 2025**: </span> [Check out my participation in the PODInovar](https://youtu.be/Ow7fd3FyS3I?si=ZS4Eo7s-Owzr4czQ), a FAPES' podcast about innovation 🎙️</span>
 + <span class="news"> <span class="index_color"> **Jun 2025**: </span> Padtech wins the Conexão Inova 2025 award. [Check it here](https://pad.ufes.br/noticias/premio-conexao-inova/) 🎉</span>
 + <span class="news"> <span class="index_color"> **Apr 2025**: </span> I was named a [2024 Highly Ranked Scholar - Prior 5 Years in the Skin Cancer field](https://scholargps.com/highly-ranked-scholars?ranking_duration=LAST_5_YEARS&specialty=Skin+cancer&p=1#1) by [ScholarGPS](https://scholargps.com/scholars/27245427188463/andre-g-c-pacheco?e_ref=91df6de506ce0df43542) 🎉</span>
