@@ -7,15 +7,28 @@
 #   presentation:
 
 papers:
+  - title: "Echoes of Power: Investigating Geopolitical Bias in US and China Large Language Models"
+    authors: "Andre G. C. Pacheco, Athus Cavalini & Giovanni Comarela"
+    link: "https://www.nature.com/articles/s41599-026-06577-6"
+    place: "Nature Humanities and Social Sciences Communications"
+    code: "https://github.com/dsl-ufes/geopolitical-llms-bias"
+
   - title: "MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification"
     authors: "Pedro H. G. Bouzon, Wyctor F. da Rocha, Luis A. Souza Jr., André G. C. Pacheco"
     link: "https://ieeexplore.ieee.org/document/11284542"
     code: "https://github.com/life-ufes/metablock-se"
     place: "IEEE Journal of Biomedical and Health Informatics (JBHI)"
+    code: "https://github.com/life-ufes/metablock-se"
+
+  - title: "Colepp: uma ferramenta multiplataforma para coleta de dados de dispositivos vestiveis"
+    authors: "Vinicius Moraes de Jesus and Andre G. C. Pacheco"
+    place: "Arxiv"
+    link: "https://arxiv.org/abs/2510.15565"
+    code: "https://github.com/life-ufes/Colepp"
 
   - title: "LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input"
     authors: "Luis A. de Souza Jr., André GC Pacheco, Gabriel G. de Angelo, Thiago Oliveira-Santos, Christoph Palm & João P. Papa"
-    link: "#"
+    link: "https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5871"
     place: "Journal of the Brazilian Computer Society (JBCS)"
 
   - title: "Dermalyze: uma aplicação para auxílio à triagem de lesões de pele baseado em aprendizado profundo"
@@ -33,6 +46,7 @@ papers:
     authors: "Lorenzo M. Scaramussa, Andre G. C. Pacheco"
     link: "https://sol.sbc.org.br/index.php/sbcas/article/view/35492"
     place: "SBCAS 2025"
+    code: "https://github.com/life-ufes/segmentation-tool"
 
   - title: "Evaluating Deep Neural Skin Cancer Classifiers With Multiple Images Inputs"
     authors: "Afonso S. Magalhães, Luis A. de Souza Jr., André GC Pacheco"
@@ -43,11 +57,6 @@ papers:
     authors: "Athus Cavalini, Leandro Furlam Turi, André G. C. Pacheco, Giovanni Comarela"
     link: "https://sol.sbc.org.br/index.php/sbcas/article/view/35502"
     place: "SBCAS 2025"
-
-  - title: "Echoes of Power: Investigating Geopolitical Bias in US and China Large Language Models"
-    authors: "Andre G. C. Pacheco, Athus Cavalini & Giovanni Comarela"
-    link: "https://arxiv.org/abs/2503.16679"
-    place: "Preprint - Under review"
 
   - title: "In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review"
     authors: "Amelia Jiménez-Sánchez et al."
@@ -63,11 +72,6 @@ papers:
     authors: "Luis A. de Souza Jr., André GC Pacheco, Gabriel G. de Angelo, Thiago Oliveira-Santos, Christoph Palm & João P. Papa"
     link: "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2024/08.28.21.03/doc/souza-19_clean.pdf"
     place: "SIBGRAPI 2024"
-
-  - title: "DeepCraftFuse: visual and deeply-learnable features work better together for esophageal cancer detection in patients with Barrett’s esophagus"
-    authors: "Luis A Souza Jr, André GC Pacheco, Leandro A Passos, Marcos CS Santana, Robert Mendel, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Christoph Palm, João Paulo Papa"
-    link: "https://link.springer.com/article/10.1007/s00521-024-09615-z"
-    place: "Neural Computing and Applications"
 
   - title: "DeepCraftFuse: visual and deeply-learnable features work better together for esophageal cancer detection in patients with Barrett’s esophagus"
     authors: "Luis A Souza Jr, André GC Pacheco, Leandro A Passos, Marcos CS Santana, Robert Mendel, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Christoph Palm, João Paulo Papa"

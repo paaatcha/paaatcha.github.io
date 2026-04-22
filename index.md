@@ -26,6 +26,7 @@ ___
 #### Some Good News 📰
 {: .index_color}
 
++ <span class="news"> <span class="index_color"> **Fev 2026**: </span> [Our new paper](https://www.nature.com/articles/s41599-026-06577-6) has been accepted in the Nature Humanities and Social Sciences Communications journal</span>
 + <span class="news"> <span class="index_color"> **Nov 2025**: </span> [Our paper](https://sol.sbc.org.br/index.php/webmedia/article/view/37961) received the Best Paper Award in the LF category at the WebMedia 2025 conference 🎉</span>
 + <span class="news"> <span class="index_color"> **Aug 2025**: </span> [Check out my participation in the PODInovar](https://youtu.be/Ow7fd3FyS3I?si=ZS4Eo7s-Owzr4czQ), a FAPES' podcast about innovation 🎙️</span>
 + <span class="news"> <span class="index_color"> **Jun 2025**: </span> Padtech wins the Conexão Inova 2025 award. [Check it here](https://pad.ufes.br/noticias/premio-conexao-inova/) 🎉</span>
